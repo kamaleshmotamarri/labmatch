@@ -27,10 +27,16 @@ function subscribe(listener: () => void) {
  return () => { listeners.delete(listener); };
 }
 function setState(updater: (s: State) => State) {
- const state = updater(snapshot.state); let storageError = snapshot.storageError;
- try { localStorage.setItem(KEY, JSON.stringify(state)); } catch { storageError = true; }
- snapshot = { state, ready: true, storageError };
+ const state = updater(snapshot.state);
+ snapshot = { state, ready: true, storageError: snapshot.storageError };
  listeners.forEach(notify => notify());
+ window.setTimeout(() => {
+  try { localStorage.setItem(KEY, JSON.stringify(state)); }
+  catch {
+   snapshot = { ...snapshot, storageError: true };
+   listeners.forEach(notify => notify());
+  }
+ }, 0);
 }
 export function StoreProvider({ children }: { children: ReactNode }) {
  const value = useSyncExternalStore(subscribe, () => snapshot, () => serverSnapshot);
