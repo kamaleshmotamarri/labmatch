@@ -1,4 +1,4 @@
-import facultyData from '@/AEM_Faculty/faculty.json';
+import facultyData from '@/public/faculty/faculty.json';
 import { professors } from '@/lib/data';
 
 type FacultyRecord = {

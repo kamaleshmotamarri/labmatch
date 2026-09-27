@@ -1,4 +1,4 @@
-import facultyData from '@/AEM_Faculty/faculty.json';
+import facultyData from '@/public/faculty/faculty.json';
 
 export type CollegeId = 'CSE' | 'CBS';
 export type QuizQuestion = { question: string; choices: string[] };
