@@ -1,0 +1,77 @@
+{
+  "name": "Richard D. James",
+  "role": "Distinguished McKnight University Professor",
+  "email": "james@umn.edu",
+  "url": "https://cse.umn.edu/aem/richard-d-james",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Jamesresized_1.jpeg.webp?itok=s1J5DgZb",
+  "category": "Faculty",
+  "research_summary": "James studies changes in material structure, especially shape-memory materials, using mathematics at atomic and larger scales. His wider interests include origami-inspired structures, wind-turbine design, superconductivity, and superfluidity, with symmetry helping simplify complex problems.",
+  "quiz": [
+    {
+      "question": "What special type of material is a major focus of James’s work?",
+      "choices": [
+        "Ordinary window glass only.",
+        "Printer ink only.",
+        "Shape-memory materials.",
+        "Wet concrete only."
+      ],
+      "answer": "Shape-memory materials."
+    },
+    {
+      "question": "Does he study materials at atomic scales?",
+      "choices": [
+        "Only continent-sized maps.",
+        "No, only city-block scales.",
+        "Yes, including atomic-scale mathematics.",
+        "Only solar-system orbits."
+      ],
+      "answer": "Yes, including atomic-scale mathematics."
+    },
+    {
+      "question": "What paper-folding idea inspires some of his structures?",
+      "choices": [
+        "Calligraphy.",
+        "Bookbinding.",
+        "Knitting.",
+        "Origami."
+      ],
+      "answer": "Origami."
+    },
+    {
+      "question": "What energy device appears among his research interests?",
+      "choices": [
+        "A wind turbine.",
+        "A flashlight.",
+        "A bicycle bell.",
+        "A toaster oven."
+      ],
+      "answer": "A wind turbine."
+    },
+    {
+      "question": "What mathematical idea helps him simplify problems?",
+      "choices": [
+        "Random guessing.",
+        "Color matching.",
+        "Symmetry.",
+        "Alphabetical order."
+      ],
+      "answer": "Symmetry."
+    }
+  ],
+  "slug": "richard-d-james",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/richard-d-james"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/richard-d-james/photo.jpg"
+}

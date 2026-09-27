@@ -1,0 +1,81 @@
+{
+  "name": "Anubhav Dwivedi",
+  "role": "Research Assistant Professor",
+  "email": "dwive016@umn.edu",
+  "url": "https://cse.umn.edu/aem/anubhav-dwivedi",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Anubhav%20Photo.png.webp?itok=nKDSsVN8",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Dwivedi's research interests include computer modeling of fast, compressible flows, plasma dynamics, uncertainty, and data-driven methods. His documented work also examines how hypersonic boundary layers become unstable and transition toward turbulence.",
+  "quiz": [
+    {
+      "question": "What kind of flows does Dwivedi model?",
+      "choices": [
+        "Turbulent, incompressible flows",
+        "Laminar, steady flows",
+        "Slow, incompressible flows",
+        "Fast, compressible flows"
+      ],
+      "answer": "Fast, compressible flows"
+    },
+    {
+      "question": "What ionized-gas topic appears in his interests?",
+      "choices": [
+        "Static charge analysis",
+        "Electric field theory",
+        "Plasma dynamics",
+        "Ionized gas chemistry"
+      ],
+      "answer": "Plasma dynamics"
+    },
+    {
+      "question": "Is uncertainty a part of Dwivedi's research interests?",
+      "choices": [
+        "He studies certainty, not uncertainty.",
+        "No, he focuses on deterministic models.",
+        "Yes, it is a stated interest.",
+        "Only in very specific, limited cases."
+      ],
+      "answer": "Yes, it is a stated interest."
+    },
+    {
+      "question": "Are data-driven methods part of Dwivedi's research toolkit?",
+      "choices": [
+        "He primarily uses experimental methods.",
+        "Yes, he includes them.",
+        "No, his methods are purely theoretical.",
+        "He uses them only for visualization."
+      ],
+      "answer": "Yes, he includes them."
+    },
+    {
+      "question": "What specific flow change is examined in Dwivedi's hypersonic research?",
+      "choices": [
+        "Transition toward turbulence",
+        "Laminar flow stabilization",
+        "Shockwave formation",
+        "Flow separation"
+      ],
+      "answer": "Transition toward turbulence"
+    }
+  ],
+  "slug": "anubhav-dwivedi",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/anubhav-dwivedi"
+    },
+    {
+      "label": "Supplementary research source",
+      "url": "https://dwivedi-anubhav.github.io/website/"
+    }
+  ],
+  "research_basis": "Research interests and publications on the researcher’s personal website (older affiliation; role and email taken from current AEM directory).",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/anubhav-dwivedi/photo.jpg"
+}

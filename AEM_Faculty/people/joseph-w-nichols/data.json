@@ -1,0 +1,77 @@
+{
+  "name": "Joseph W. Nichols",
+  "role": "Associate Professor",
+  "email": "jwn@umn.edu",
+  "url": "https://cse.umn.edu/aem/joseph-w-nichols",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/2019-01/Nicholsresized.jpg.webp?itok=fMhj3iTY",
+  "category": "Faculty",
+  "research_summary": "Nichols uses large computer simulations to study noise from high-speed jets and instability in hypersonic flows. He also develops scalable analysis tools to predict how flows over complex shapes become unstable and transition toward turbulence.",
+  "quiz": [
+    {
+      "question": "What kind of noise does Nichols study?",
+      "choices": [
+        "Classroom chalk squeaks.",
+        "Library whispering.",
+        "Noise from high-speed jets.",
+        "Phone notification pings."
+      ],
+      "answer": "Noise from high-speed jets."
+    },
+    {
+      "question": "What main research tool does he use?",
+      "choices": [
+        "Kitchen timers.",
+        "Opinion surveys.",
+        "Hand-drawn cartoons only.",
+        "Large computer simulations."
+      ],
+      "answer": "Large computer simulations."
+    },
+    {
+      "question": "Does his research include hypersonic flows?",
+      "choices": [
+        "Yes, including hypersonic-flow instability.",
+        "Only honey dripping.",
+        "Only indoor ceiling fans.",
+        "No, only still pond water."
+      ],
+      "answer": "Yes, including hypersonic-flow instability."
+    },
+    {
+      "question": "What change in flow behavior does he analyze?",
+      "choices": [
+        "How paint dries on a wall.",
+        "How traffic lights change color.",
+        "Instability and transition toward turbulence.",
+        "How ice cubes melt in soda."
+      ],
+      "answer": "Instability and transition toward turbulence."
+    },
+    {
+      "question": "Does he develop tools for flows over complex shapes?",
+      "choices": [
+        "Yes, including flows over complex shapes.",
+        "Only flat printed posters.",
+        "No, only perfectly empty space.",
+        "Only circular dinner plates."
+      ],
+      "answer": "Yes, including flows over complex shapes."
+    }
+  ],
+  "slug": "joseph-w-nichols",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/joseph-w-nichols"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/joseph-w-nichols/photo.jpg"
+}

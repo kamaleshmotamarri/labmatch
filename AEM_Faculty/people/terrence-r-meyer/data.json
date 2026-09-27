@@ -1,0 +1,77 @@
+{
+  "name": "Terrence R. Meyer",
+  "role": "Professor & Department Head",
+  "email": "trmeyer@umn.edu",
+  "url": "https://cse.umn.edu/aem/terrence-r-meyer",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Terry%20Meyer%20Headshot.png.webp?itok=Vq32OOfn",
+  "category": "Faculty",
+  "research_summary": "Meyer develops advanced measurement tools to understand fast, hot, reacting flows for propulsion, power, and energy systems. He studies complex flows containing droplets or particles and works toward devices with better efficiency, lower emissions, and practical designs.",
+  "quiz": [
+    {
+      "question": "What tools does Meyer develop to study flows?",
+      "choices": [
+        "Advanced measurement or diagnostic tools.",
+        "Kitchen measuring cups.",
+        "Bathroom scales.",
+        "Yardsticks for posters."
+      ],
+      "answer": "Advanced measurement or diagnostic tools."
+    },
+    {
+      "question": "Name one application area.",
+      "choices": [
+        "Concert lighting.",
+        "Retail clothing.",
+        "Campus landscaping.",
+        "Propulsion, power, or energy systems."
+      ],
+      "answer": "Propulsion, power, or energy systems."
+    },
+    {
+      "question": "Can the flows he studies contain droplets or particles?",
+      "choices": [
+        "Yes, including droplets or particles.",
+        "Only solid wooden blocks.",
+        "Only still photographs.",
+        "No, only perfectly empty vacuum."
+      ],
+      "answer": "Yes, including droplets or particles."
+    },
+    {
+      "question": "What does he want to improve about energy use?",
+      "choices": [
+        "Poster brightness.",
+        "Efficiency.",
+        "Chair cushion thickness.",
+        "Font size."
+      ],
+      "answer": "Efficiency."
+    },
+    {
+      "question": "What environmental output does he aim to reduce?",
+      "choices": [
+        "Sidewalk chalk dust.",
+        "Library whispers.",
+        "Emissions.",
+        "Printer paper jams."
+      ],
+      "answer": "Emissions."
+    }
+  ],
+  "slug": "terrence-r-meyer",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/terrence-r-meyer"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/terrence-r-meyer/photo.jpg"
+}

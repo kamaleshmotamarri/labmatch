@@ -1,0 +1,81 @@
+{
+  "name": "Michael Kroells",
+  "role": "Research Assistant Professor",
+  "email": "kroel012@umn.edu",
+  "url": "https://cse.umn.edu/aem/michael-kroells",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/themes/custom/cse/img/person_placeholder.png",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Kroells' listed research uses computer models to study high-speed gas flows and how particles affect atmospheric-entry conditions. His publications include dust-related surface erosion during Mars entry, particle effects on turbulence transition, and comparisons of particle and continuum flow models.",
+  "quiz": [
+    {
+      "question": "What broad type of flow does Kroells study?",
+      "choices": [
+        "Indoor ceiling-fan breeze only.",
+        "Still swimming-pool water.",
+        "High-speed gas flow.",
+        "Slow honey pouring."
+      ],
+      "answer": "High-speed gas flow."
+    },
+    {
+      "question": "Which planet appears in his dust-erosion research?",
+      "choices": [
+        "Earth’s moon only.",
+        "Mars.",
+        "Neptune.",
+        "Mercury."
+      ],
+      "answer": "Mars."
+    },
+    {
+      "question": "What can dust do to an entry vehicle’s surface?",
+      "choices": [
+        "Erode it.",
+        "Paint it blue.",
+        "Cool it into ice.",
+        "Turn it into fabric."
+      ],
+      "answer": "Erode it."
+    },
+    {
+      "question": "What change in flow can particles influence?",
+      "choices": [
+        "The color of street signs.",
+        "The tempo of a song.",
+        "The price of coffee.",
+        "Transition toward turbulence."
+      ],
+      "answer": "Transition toward turbulence."
+    },
+    {
+      "question": "What two types of flow models does he compare?",
+      "choices": [
+        "Particle and continuum models.",
+        "Cookbook and travel-guide models.",
+        "Map and calendar models.",
+        "Spreadsheet and slideshow models."
+      ],
+      "answer": "Particle and continuum models."
+    }
+  ],
+  "slug": "michael-kroells",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/michael-kroells"
+    },
+    {
+      "label": "Supplementary research source",
+      "url": "https://experts.umn.edu/en/persons/michael-d-kroells/"
+    }
+  ],
+  "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+  "notes": [],
+  "photo_status": "site_default_placeholder",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/michael-kroells/photo.jpg"
+}

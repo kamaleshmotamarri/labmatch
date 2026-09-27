@@ -1,0 +1,77 @@
+{
+  "name": "Perry H. Leo",
+  "role": "Professor",
+  "email": "phleo@umn.edu",
+  "url": "https://cse.umn.edu/aem/perry-h-leo",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Leoresized.jpg.webp?itok=muyAt8tF",
+  "category": "Faculty",
+  "research_summary": "Leo studies how internal patterns and phase changes affect the properties of complex solids. His theoretical and numerical work links microstructure to strength, fracture and fatigue resistance, and electrical or magnetic behavior in materials such as composites, alloys, biological materials, and liquid crystals.",
+  "quiz": [
+    {
+      "question": "What internal feature does Leo link to material properties?",
+      "choices": [
+        "Microstructure or internal patterns.",
+        "The color of the lab door.",
+        "The length of the email signature.",
+        "The building’s street address."
+      ],
+      "answer": "Microstructure or internal patterns."
+    },
+    {
+      "question": "Does he study phase changes?",
+      "choices": [
+        "No, only unchanging statues.",
+        "Yes, including phase changes in solids.",
+        "Only software version numbers.",
+        "Only seasonal clothing changes."
+      ],
+      "answer": "Yes, including phase changes in solids."
+    },
+    {
+      "question": "Name one mechanical property he studies.",
+      "choices": [
+        "Wi-Fi password strength.",
+        "Font size.",
+        "Strength, fracture resistance, or fatigue resistance.",
+        "Coffee bitterness."
+      ],
+      "answer": "Strength, fracture resistance, or fatigue resistance."
+    },
+    {
+      "question": "Does his work also consider electrical or magnetic behavior?",
+      "choices": [
+        "Only cafeteria menus.",
+        "Only bus schedules.",
+        "No, only paint colors.",
+        "Yes, including electrical or magnetic behavior."
+      ],
+      "answer": "Yes, including electrical or magnetic behavior."
+    },
+    {
+      "question": "Name one material type he studies.",
+      "choices": [
+        "Composites, alloys, biological materials, or liquid crystals.",
+        "Printer paper only.",
+        "Cotton T-shirts only.",
+        "Cardboard boxes only."
+      ],
+      "answer": "Composites, alloys, biological materials, or liquid crystals."
+    }
+  ],
+  "slug": "perry-h-leo",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/perry-h-leo"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/perry-h-leo/photo.jpg"
+}

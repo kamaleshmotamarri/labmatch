@@ -1,0 +1,77 @@
+{
+  "name": "Everett Wenzel",
+  "role": "Research Associate Professor",
+  "email": "eawenzel@umn.edu",
+  "url": "https://cse.umn.edu/aem/everett-wenzel",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Everett_picture%20%282%29.JPG.webp?itok=hafALjmc",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Wenzel develops numerical methods and scientific software for flows involving multiple phases, such as sprays and smoke aerosols. He studies phase boundaries, their curvature, phase-change rates, and interactions between shock waves and droplets.",
+  "quiz": [
+    {
+      "question": "What type of flows is a primary focus of Professor Wenzel's research?",
+      "choices": [
+        "Hypersonic flows",
+        "Multiphase flows",
+        "Laminar flows",
+        "Inviscid flows"
+      ],
+      "answer": "Multiphase flows"
+    },
+    {
+      "question": "Which of the following is an example of a phenomenon Professor Wenzel studies?",
+      "choices": [
+        "Fluid-structure interaction",
+        "Combustion in engines",
+        "Smoke aerosols",
+        "Heat transfer in solids"
+      ],
+      "answer": "Smoke aerosols"
+    },
+    {
+      "question": "According to the summary, what separates different phases in a flow?",
+      "choices": [
+        "A vortex",
+        "A pressure gradient",
+        "A phase boundary",
+        "A flow regime"
+      ],
+      "answer": "A phase boundary"
+    },
+    {
+      "question": "What specific geometric property of phase boundaries does Professor Wenzel calculate?",
+      "choices": [
+        "Velocity",
+        "Curvature",
+        "Thickness",
+        "Area"
+      ],
+      "answer": "Curvature"
+    },
+    {
+      "question": "Does Professor Wenzel's research include the study of phase-change rates?",
+      "choices": [
+        "Only for single-phase systems.",
+        "Yes, he studies phase-change rates.",
+        "Only theoretically, not numerically.",
+        "No, he only studies boundaries."
+      ],
+      "answer": "Yes, he studies phase-change rates."
+    }
+  ],
+  "slug": "everett-wenzel",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/everett-wenzel"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/everett-wenzel/photo.jpg"
+}

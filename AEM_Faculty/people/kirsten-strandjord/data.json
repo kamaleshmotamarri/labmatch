@@ -1,0 +1,77 @@
+{
+  "name": "Kirsten Strandjord",
+  "role": "Lecturer/Assistant Professor",
+  "email": "stran626@umn.edu",
+  "url": "https://cse.umn.edu/aem/kirsten-strandjord",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/kirsten_2.jpg.webp?itok=LV_jPfga",
+  "category": "Faculty",
+  "research_summary": "Strandjord studies satellite navigation, including how to navigate in the region between Earth and the Moon. She investigates navigation signals beyond the usual navigation-satellite orbits and the use of existing Starlink and cellular LTE signals as additional navigation sources.",
+  "quiz": [
+    {
+      "question": "What is Strandjord’s main research area?",
+      "choices": [
+        "Hospital billing.",
+        "Orchestra conducting.",
+        "Satellite navigation.",
+        "Fashion design."
+      ],
+      "answer": "Satellite navigation."
+    },
+    {
+      "question": "Which two bodies define the region highlighted in her work?",
+      "choices": [
+        "Saturn and Neptune.",
+        "Earth and the Moon.",
+        "Mars and Jupiter.",
+        "Mercury and Venus."
+      ],
+      "answer": "Earth and the Moon."
+    },
+    {
+      "question": "Does she study signals beyond navigation satellites’ usual orbital altitude?",
+      "choices": [
+        "Yes, including signals beyond usual GNSS orbits.",
+        "No, only hallway Wi-Fi.",
+        "Only AM radio commercials.",
+        "Only wired Ethernet cables."
+      ],
+      "answer": "Yes, including signals beyond usual GNSS orbits."
+    },
+    {
+      "question": "Which communications-satellite network is mentioned?",
+      "choices": [
+        "A campus printer queue.",
+        "A local FM jazz station.",
+        "A supermarket PA system.",
+        "Starlink."
+      ],
+      "answer": "Starlink."
+    },
+    {
+      "question": "Which cellular signal technology is mentioned?",
+      "choices": [
+        "LTE.",
+        "Smoke signals.",
+        "Carrier pigeons.",
+        "Morse code only."
+      ],
+      "answer": "LTE."
+    }
+  ],
+  "slug": "kirsten-strandjord",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/kirsten-strandjord"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/kirsten-strandjord/photo.jpg"
+}

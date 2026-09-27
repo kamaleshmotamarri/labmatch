@@ -1,0 +1,77 @@
+{
+  "name": "Ellad B. Tadmor",
+  "role": "Professor, Russell J. Penrose Professor",
+  "email": "tadmor@umn.edu",
+  "url": "https://cse.umn.edu/aem/ellad-b-tadmor",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Tadmorresized.jpeg.webp?itok=zj44qaAx",
+  "category": "Faculty",
+  "research_summary": "Tadmor develops physics-based and machine-learning models of how solid and two-dimensional materials respond to heat, forces, and failure. He connects atomic-scale behavior with larger-scale mechanics using molecular dynamics, finite-element methods, and multiscale modeling.",
+  "quiz": [
+    {
+      "question": "What two broad types of modeling does Professor Tadmor use in his research?",
+      "choices": [
+        "Analytical solutions and numerical approximations",
+        "Physics-based modeling and machine learning",
+        "Experimental observation and theoretical derivation",
+        "Qualitative analysis and quantitative analysis"
+      ],
+      "answer": "Physics-based modeling and machine learning"
+    },
+    {
+      "question": "Which of the following effects on materials does Professor Tadmor study?",
+      "choices": [
+        "Corrosion, oxidation, and fatigue",
+        "Density, elasticity, and plasticity",
+        "Conductivity, magnetism, and luminescence",
+        "Heat, forces, and failure"
+      ],
+      "answer": "Heat, forces, and failure"
+    },
+    {
+      "question": "Does Professor Tadmor's research include the study of two-dimensional materials?",
+      "choices": [
+        "The summary does not specify the dimensionality of materials studied.",
+        "Yes, his research explicitly mentions two-dimensional materials.",
+        "No, he focuses exclusively on three-dimensional bulk materials.",
+        "Only indirectly, as part of larger composite structures."
+      ],
+      "answer": "Yes, his research explicitly mentions two-dimensional materials."
+    },
+    {
+      "question": "What small scale is connected to larger-scale mechanics in Professor Tadmor's work?",
+      "choices": [
+        "The microscopic scale",
+        "The nanoscale",
+        "The subatomic scale",
+        "The atomic scale"
+      ],
+      "answer": "The atomic scale"
+    },
+    {
+      "question": "Which of the following is one computational method Professor Tadmor uses?",
+      "choices": [
+        "Quantum chromodynamics",
+        "Molecular dynamics",
+        "Computational fluid dynamics",
+        "Linear regression analysis"
+      ],
+      "answer": "Molecular dynamics"
+    }
+  ],
+  "slug": "ellad-b-tadmor",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/ellad-b-tadmor"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/ellad-b-tadmor/photo.jpg"
+}

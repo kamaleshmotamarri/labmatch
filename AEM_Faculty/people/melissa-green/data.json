@@ -1,0 +1,77 @@
+{
+  "name": "Melissa Green",
+  "role": "Associate Professor",
+  "email": "magreen@umn.edu",
+  "url": "https://cse.umn.edu/aem/melissa-green",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Green_Melissa.jpeg.webp?itok=DJIpKit_",
+  "category": "Faculty",
+  "research_summary": "Green studies how moving air and water interact with surfaces such as flapping wings and oscillating fins. She investigates and visualizes vortices and other organized flow patterns to understand forces and help predict or control fluid motion.",
+  "quiz": [
+    {
+      "question": "Which two fluids are mentioned in Green’s research?",
+      "choices": [
+        "Air and water.",
+        "Liquid metal and lava only.",
+        "Honey and tar only.",
+        "Helium balloons and syrup only."
+      ],
+      "answer": "Air and water."
+    },
+    {
+      "question": "Name a moving surface she studies.",
+      "choices": [
+        "A locked filing cabinet.",
+        "A classroom whiteboard.",
+        "A parked bicycle rack.",
+        "A flapping wing or an oscillating fin."
+      ],
+      "answer": "A flapping wing or an oscillating fin."
+    },
+    {
+      "question": "What swirling flow features does she investigate?",
+      "choices": [
+        "Staircase railings.",
+        "Telephone cords.",
+        "Vortices.",
+        "Parking spirals."
+      ],
+      "answer": "Vortices."
+    },
+    {
+      "question": "Why study these flow features?",
+      "choices": [
+        "To schedule final exams.",
+        "To understand or predict forces and fluid motion.",
+        "To design concert lighting.",
+        "To rank restaurants."
+      ],
+      "answer": "To understand or predict forces and fluid motion."
+    },
+    {
+      "question": "Does her work include visualizing flows?",
+      "choices": [
+        "Yes, including flow visualization.",
+        "No, only written descriptions.",
+        "Only still photographs of buildings.",
+        "Only spreadsheet charts of budgets."
+      ],
+      "answer": "Yes, including flow visualization."
+    }
+  ],
+  "slug": "melissa-green",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/melissa-green"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/melissa-green/photo.jpg"
+}

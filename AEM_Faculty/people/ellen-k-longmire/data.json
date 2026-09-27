@@ -1,0 +1,77 @@
+{
+  "name": "Ellen K. Longmire",
+  "role": "Professor",
+  "email": "longmire@umn.edu",
+  "url": "https://cse.umn.edu/aem/ellen-k-longmire",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/2019-01/Longmireresized.jpg.webp?itok=vVFUomHu",
+  "category": "Faculty",
+  "research_summary": "Longmire uses advanced experiments to study turbulent flows, mixtures of liquids, and flows containing particles. Her projects examine swirling eddies, particle transport and the onset of turbulence, liquid contact effects, and measurements of hypersonic reentry flows.",
+  "quiz": [
+    {
+      "question": "Based on the description, what research methodology does Longmire primarily emphasize?",
+      "choices": [
+        "Numerical simulations",
+        "Experimental measurements",
+        "Theoretical modeling",
+        "Historical analysis"
+      ],
+      "answer": "Experimental measurements"
+    },
+    {
+      "question": "What swirling structures does Longmire identify in her study of turbulent flows?",
+      "choices": [
+        "Currents",
+        "Jets",
+        "Eddies",
+        "Streams"
+      ],
+      "answer": "Eddies"
+    },
+    {
+      "question": "What small objects can Longmire's studied flows transport?",
+      "choices": [
+        "Dust",
+        "Bubbles",
+        "Fibers",
+        "Particles"
+      ],
+      "answer": "Particles"
+    },
+    {
+      "question": "According to the summary, Longmire's research includes mixtures of how many liquids?",
+      "choices": [
+        "Two",
+        "Four or more",
+        "One",
+        "Three"
+      ],
+      "answer": "Two"
+    },
+    {
+      "question": "Which high-speed spaceflight event is mentioned in Longmire's research?",
+      "choices": [
+        "Orbital docking",
+        "Hypersonic reentry",
+        "Rocket launch",
+        "Asteroid impact"
+      ],
+      "answer": "Hypersonic reentry"
+    }
+  ],
+  "slug": "ellen-k-longmire",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/ellen-k-longmire"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/ellen-k-longmire/photo.jpg"
+}

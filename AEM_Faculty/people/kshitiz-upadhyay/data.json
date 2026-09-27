@@ -1,0 +1,77 @@
+{
+  "name": "Kshitiz Upadhyay",
+  "role": "Assistant Professor",
+  "email": "kshitizu@umn.edu",
+  "url": "https://cse.umn.edu/aem/kshitiz-upadhyay",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/LSU_CoE_Marketing_0201%20-%20Copy%20%282%29.jpg.webp?itok=K3xCieLB",
+  "category": "Faculty",
+  "research_summary": "Upadhyay studies how soft materials such as biological tissues and polymers deform, heat up, and suffer damage under demanding conditions. He combines advanced experiments and physics-informed machine learning for applications including brain injury, protective systems, and discovering new materials.",
+  "quiz": [
+    {
+      "question": "Name a soft material Upadhyay studies.",
+      "choices": [
+        "Biological tissue or a polymer.",
+        "Granite countertops.",
+        "Tempered window glass only.",
+        "Structural steel I-beams only."
+      ],
+      "answer": "Biological tissue or a polymer."
+    },
+    {
+      "question": "What can happen to these materials under demanding conditions?",
+      "choices": [
+        "They turn into radio waves.",
+        "They can deform, heat up, or suffer damage.",
+        "They automatically write software.",
+        "They become planets."
+      ],
+      "answer": "They can deform, heat up, or suffer damage."
+    },
+    {
+      "question": "Does he combine experiments with modeling?",
+      "choices": [
+        "Only historical biographies.",
+        "No, only handwritten poems.",
+        "Yes, experiments and physics-informed modeling.",
+        "Only restaurant reviews."
+      ],
+      "answer": "Yes, experiments and physics-informed modeling."
+    },
+    {
+      "question": "What type of injury is an application of his work?",
+      "choices": [
+        "Sunburn from desk lamps.",
+        "Splinters from pencils.",
+        "Paper cuts from envelopes.",
+        "Brain injury."
+      ],
+      "answer": "Brain injury."
+    },
+    {
+      "question": "What data-based method supports his models?",
+      "choices": [
+        "Physics-informed machine learning.",
+        "Crossword puzzle clues.",
+        "Lottery number picking.",
+        "Horoscope charts."
+      ],
+      "answer": "Physics-informed machine learning."
+    }
+  ],
+  "slug": "kshitiz-upadhyay",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/kshitiz-upadhyay"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/kshitiz-upadhyay/photo.jpg"
+}

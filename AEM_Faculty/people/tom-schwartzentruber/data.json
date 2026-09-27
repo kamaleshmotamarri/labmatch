@@ -1,0 +1,77 @@
+{
+  "name": "Tom Schwartzentruber",
+  "role": "Professor, Distinguished McKnight University Professor",
+  "email": "schwart@umn.edu",
+  "url": "https://cse.umn.edu/aem/tom-schwartzentruber",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Schwartzresized.jpg.webp?itok=4AFJVRdy",
+  "category": "Faculty",
+  "research_summary": "Schwartzentruber uses particle-based computer simulations to study gases that are chemically reacting or out of equilibrium. His work combines molecular and larger-scale models for applications including high-altitude hypersonic flight, rocket plumes, gas-surface interactions, and tiny devices.",
+  "quiz": [
+    {
+      "question": "What do his simulations track to represent gases?",
+      "choices": [
+        "Library due dates.",
+        "Parking spaces.",
+        "Particles or molecules.",
+        "Concert seats."
+      ],
+      "answer": "Particles or molecules."
+    },
+    {
+      "question": "Can the gases in his research undergo chemical reactions?",
+      "choices": [
+        "Only if they are frozen first.",
+        "Only in cooking recipes.",
+        "No, they never change chemically.",
+        "Yes, including chemically reacting gases."
+      ],
+      "answer": "Yes, including chemically reacting gases."
+    },
+    {
+      "question": "Name one aerospace application.",
+      "choices": [
+        "High-altitude hypersonic flight or rocket plumes.",
+        "Campus shuttle maps.",
+        "Grocery delivery.",
+        "City bus routes."
+      ],
+      "answer": "High-altitude hypersonic flight or rocket plumes."
+    },
+    {
+      "question": "Does he study how gases interact with surfaces?",
+      "choices": [
+        "No, only empty space far from surfaces.",
+        "Only classroom whiteboards.",
+        "Yes, including gas-surface interactions.",
+        "Only painted murals."
+      ],
+      "answer": "Yes, including gas-surface interactions."
+    },
+    {
+      "question": "Does he combine models at different scales?",
+      "choices": [
+        "Yes, including molecular and larger-scale models.",
+        "Only campus-map scales.",
+        "No, only one scale always.",
+        "Only poster-print scales."
+      ],
+      "answer": "Yes, including molecular and larger-scale models."
+    }
+  ],
+  "slug": "tom-schwartzentruber",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/tom-schwartzentruber"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/tom-schwartzentruber/photo.jpg"
+}

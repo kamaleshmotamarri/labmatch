@@ -1,0 +1,79 @@
+{
+  "name": "William L. Garrard",
+  "role": "Professor Emeritus (Retired 2017)",
+  "email": "wgarrard@umn.edu",
+  "url": "https://cse.umn.edu/aem/william-l-garrard",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Garrard-min.jpg.webp?itok=BLds19Ai",
+  "category": "Emeritus Faculty",
+  "research_summary": "Garrard's listed research focuses on flight mechanics and control of aerospace vehicles. In simple terms, these fields study vehicle motion in flight and how to guide or regulate that motion.",
+  "quiz": [
+    {
+      "question": "What is one of Garrard’s listed research areas?",
+      "choices": [
+        "Flight mechanics or control.",
+        "Fashion illustration.",
+        "Poetry recitation.",
+        "Restaurant reviewing."
+      ],
+      "answer": "Flight mechanics or control."
+    },
+    {
+      "question": "What type of vehicles does he study?",
+      "choices": [
+        "City buses only.",
+        "Rowboats only.",
+        "Grocery carts.",
+        "Aerospace vehicles."
+      ],
+      "answer": "Aerospace vehicles."
+    },
+    {
+      "question": "What does flight mechanics help explain?",
+      "choices": [
+        "How vehicles move in flight.",
+        "How emails are filed.",
+        "How bread is sliced.",
+        "How books are shelved."
+      ],
+      "answer": "How vehicles move in flight."
+    },
+    {
+      "question": "What do control methods help regulate?",
+      "choices": [
+        "Classroom thermostats only.",
+        "Poster alignment only.",
+        "Vehicle motion or behavior.",
+        "Playlist volume only."
+      ],
+      "answer": "Vehicle motion or behavior."
+    },
+    {
+      "question": "Would guiding an aircraft’s motion fit this research area?",
+      "choices": [
+        "Yes, guiding aircraft motion fits this work.",
+        "Only about naming airports.",
+        "No, it is only about painting aircraft.",
+        "Only about printing boarding passes."
+      ],
+      "answer": "Yes, guiding aircraft motion fits this work."
+    }
+  ],
+  "slug": "william-l-garrard",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/william-l-garrard"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [
+    "The profile provides a short research description; the quiz includes basic explanations of those stated topics."
+  ],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/william-l-garrard/photo.jpg"
+}

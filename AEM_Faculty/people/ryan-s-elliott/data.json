@@ -1,0 +1,77 @@
+{
+  "name": "Ryan S. Elliott",
+  "role": "Professor & Director of Graduate Studies",
+  "email": "relliott@umn.edu",
+  "url": "https://cse.umn.edu/aem/ryan-s-elliott",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Elliotresized.jpg.webp?itok=0gIwhFKL",
+  "category": "Faculty",
+  "research_summary": "Elliott studies why structures and materials become unstable, including buckling, aircraft-wing flutter, and structural collapse. He develops nonlinear mathematical models, computational methods, and open-source software to predict instability and discover different stable configurations.",
+  "quiz": [
+    {
+      "question": "What is Elliott’s main research theme?",
+      "choices": [
+        "Concert ticket design.",
+        "Dining-hall menus.",
+        "Stability and instability of structures and materials.",
+        "Campus landscaping."
+      ],
+      "answer": "Stability and instability of structures and materials."
+    },
+    {
+      "question": "Name one instability he studies.",
+      "choices": [
+        "A stack of papers sliding off a desk.",
+        "Buckling, wing flutter, or structural collapse.",
+        "Wi-Fi password expiry.",
+        "A wobbly cafeteria table only."
+      ],
+      "answer": "Buckling, wing flutter, or structural collapse."
+    },
+    {
+      "question": "Does he develop mathematical models?",
+      "choices": [
+        "Yes, including nonlinear mathematical models.",
+        "Only watercolor sketches.",
+        "No, only photographs.",
+        "Only verbal anecdotes."
+      ],
+      "answer": "Yes, including nonlinear mathematical models."
+    },
+    {
+      "question": "What can his methods discover besides instability?",
+      "choices": [
+        "New cafeteria recipes.",
+        "Lost umbrella locations.",
+        "Unused classroom numbers.",
+        "Different stable configurations or states."
+      ],
+      "answer": "Different stable configurations or states."
+    },
+    {
+      "question": "What kind of scientific software does he help develop?",
+      "choices": [
+        "Smartphone filters only.",
+        "Closed photo albums only.",
+        "Open-source software.",
+        "Paid video games only."
+      ],
+      "answer": "Open-source software."
+    }
+  ],
+  "slug": "ryan-s-elliott",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/ryan-s-elliott"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/ryan-s-elliott/photo.jpg"
+}

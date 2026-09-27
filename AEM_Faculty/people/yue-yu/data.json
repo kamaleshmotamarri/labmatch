@@ -1,0 +1,77 @@
+{
+  "name": "Yue Yu",
+  "role": "Assistant Professor",
+  "email": "yuey@umn.edu",
+  "url": "https://cse.umn.edu/aem/yue-yu",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Yue%20Yu%20Headshot%20Website_0.png.webp?itok=wSA4JHk9",
+  "category": "Faculty",
+  "research_summary": "Yu develops efficient optimization and control algorithms for autonomous aerospace systems. His work includes planning paths in real time and coordinating multiple vehicles using game theory, with applications to advanced air mobility and spacecraft control.",
+  "quiz": [
+    {
+      "question": "What type of aerospace systems does Yu study?",
+      "choices": [
+        "Autonomous systems.",
+        "Remote-controlled toys only.",
+        "Parked museum aircraft only.",
+        "Hand-flown paper airplanes only."
+      ],
+      "answer": "Autonomous systems."
+    },
+    {
+      "question": "What do trajectory-planning algorithms choose?",
+      "choices": [
+        "A cafeteria table.",
+        "A vehicle’s path.",
+        "A lecture hall seat.",
+        "A poster color."
+      ],
+      "answer": "A vehicle’s path."
+    },
+    {
+      "question": "Does his work include real-time planning?",
+      "choices": [
+        "Only weekend schedules.",
+        "No, only plans made a year in advance.",
+        "Yes, including real-time path planning.",
+        "Only printed itineraries."
+      ],
+      "answer": "Yes, including real-time path planning."
+    },
+    {
+      "question": "What theory helps coordinate multiple vehicles?",
+      "choices": [
+        "Color theory.",
+        "Literary theory.",
+        "Music theory.",
+        "Game theory."
+      ],
+      "answer": "Game theory."
+    },
+    {
+      "question": "Name one application.",
+      "choices": [
+        "Advanced air mobility or spacecraft control.",
+        "Concert lighting cues.",
+        "Campus lawn mowing.",
+        "Bookstore inventory."
+      ],
+      "answer": "Advanced air mobility or spacecraft control."
+    }
+  ],
+  "slug": "yue-yu",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/yue-yu"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/yue-yu/photo.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Gordon S. Beavers",
+  "role": "Professor Emeritus (Retired 2006)",
+  "email": null,
+  "url": "https://cse.umn.edu/aem/gordon-s-beavers",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Beavers%20Resized.jpg.webp?itok=KhE9IC6c",
+  "category": "Emeritus Faculty",
+  "research_summary": "Beavers' listed research areas are experimental fluid mechanics and rheological fluid mechanics. These concern measuring how fluids move and understanding how materials flow or deform when forces act on them.",
+  "quiz": [
+    {
+      "question": "Which of the following is one of Professor Beavers' listed research areas?",
+      "choices": [
+        "Historical linguistics",
+        "Experimental fluid mechanics",
+        "Cognitive psychology",
+        "Behavioral economics"
+      ],
+      "answer": "Experimental fluid mechanics"
+    },
+    {
+      "question": "Does experimental research typically involve taking measurements?",
+      "choices": [
+        "Only in theoretical simulations.",
+        "No, it relies solely on observation.",
+        "Yes, it often involves gathering data through measurements.",
+        "Rarely, preferring qualitative analysis."
+      ],
+      "answer": "Yes, it often involves gathering data through measurements."
+    },
+    {
+      "question": "What is the primary focus of fluid mechanics?",
+      "choices": [
+        "The structure of atomic nuclei.",
+        "How fluids move and respond to forces.",
+        "The chemical composition of gases.",
+        "The properties of static solids."
+      ],
+      "answer": "How fluids move and respond to forces."
+    },
+    {
+      "question": "What specific aspect of materials does rheology primarily concern?",
+      "choices": [
+        "Their solubility in different solvents.",
+        "How materials flow or deform.",
+        "Their electromagnetic properties.",
+        "Their optical refractive index."
+      ],
+      "answer": "How materials flow or deform."
+    },
+    {
+      "question": "Would observing a fluid's response to an applied force be relevant to Beavers' research topics?",
+      "choices": [
+        "Rarely, only under extreme conditions.",
+        "No, only solids are studied.",
+        "Yes, as it relates to fluid mechanics and rheology.",
+        "No, only theoretical models are considered."
+      ],
+      "answer": "Yes, as it relates to fluid mechanics and rheology."
+    }
+  ],
+  "slug": "gordon-s-beavers",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/gordon-s-beavers"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [
+    "The profile provides a short research description; the quiz includes basic explanations of those stated topics.",
+    "No individual email is listed in the current AEM directory or linked profile. Department contact: aem-department@umn.edu (not the individual’s address)."
+  ],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/gordon-s-beavers/photo.jpg"
+}

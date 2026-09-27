@@ -1,0 +1,77 @@
+{
+  "name": "Joseph Mueller",
+  "role": "Industrial Professor of Design",
+  "email": "muel0053@umn.edu",
+  "url": "https://cse.umn.edu/aem/joseph-mueller",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Joseph%20Mueller.png.webp?itok=wocnUfKg",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Mueller studies control, navigation, estimation, and path planning for aerospace vehicles. His interests include satellite constellations, space-mission design, autonomous aircraft routing, and algorithms that help spacecraft approach and operate near one another.",
+  "quiz": [
+    {
+      "question": "Name one area Mueller studies.",
+      "choices": [
+        "Control, navigation, estimation, or path planning.",
+        "Municipal voting law.",
+        "Fashion photography.",
+        "Restaurant branding."
+      ],
+      "answer": "Control, navigation, estimation, or path planning."
+    },
+    {
+      "question": "What is a satellite constellation?",
+      "choices": [
+        "A single weather balloon.",
+        "A campus building cluster.",
+        "A coordinated group of satellites.",
+        "A constellation of stars used only for poetry."
+      ],
+      "answer": "A coordinated group of satellites."
+    },
+    {
+      "question": "Does his work include autonomous aircraft route planning?",
+      "choices": [
+        "Yes, including autonomous aircraft routing.",
+        "Only subway maps.",
+        "No, he studies only kitchen robots.",
+        "Only handwritten paper maps."
+      ],
+      "answer": "Yes, including autonomous aircraft routing."
+    },
+    {
+      "question": "What does spacecraft rendezvous involve?",
+      "choices": [
+        "Airplanes landing at the same airport gate.",
+        "Students meeting in a hallway.",
+        "Two ships exchanging mail.",
+        "Spacecraft approaching or meeting one another."
+      ],
+      "answer": "Spacecraft approaching or meeting one another."
+    },
+    {
+      "question": "Does he study algorithms used onboard spacecraft?",
+      "choices": [
+        "Yes, including onboard spacecraft algorithms.",
+        "Only spreadsheet fonts.",
+        "Only board-game rules.",
+        "No, only printed posters."
+      ],
+      "answer": "Yes, including onboard spacecraft algorithms."
+    }
+  ],
+  "slug": "joseph-mueller",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/joseph-mueller"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/joseph-mueller/photo.jpg"
+}

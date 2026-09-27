@@ -1,0 +1,77 @@
+{
+  "name": "Maziar S. Hemati",
+  "role": "Associate Professor, Russell J. Penrose Faculty Fellow",
+  "email": "mhemati@umn.edu",
+  "url": "https://cse.umn.edu/aem/maziar-s-hemati",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Hematiresized.jpg.webp?itok=EAPgooIG",
+  "category": "Faculty",
+  "research_summary": "Hemati develops ways to model, understand, and control fluid flows using theory, computer simulations, and experiments. Applications include reducing drag by delaying turbulence, combining sensor measurements, controlling flow separation, and improving hypersonic flight systems.",
+  "quiz": [
+    {
+      "question": "What does Hemati try to model and control?",
+      "choices": [
+        "Election ballots.",
+        "Fluid flows.",
+        "Concert ticket sales.",
+        "Grocery inventory."
+      ],
+      "answer": "Fluid flows."
+    },
+    {
+      "question": "Name one research approach he uses.",
+      "choices": [
+        "Guessing from headlines.",
+        "Tarot card readings.",
+        "Theory, computer simulations, or experiments.",
+        "Sorting mail by color."
+      ],
+      "answer": "Theory, computer simulations, or experiments."
+    },
+    {
+      "question": "What resistance can delaying turbulence help reduce?",
+      "choices": [
+        "Password resets.",
+        "Library late fees.",
+        "Tuition bills.",
+        "Drag."
+      ],
+      "answer": "Drag."
+    },
+    {
+      "question": "Does he combine sensor measurements?",
+      "choices": [
+        "Yes, including combined sensor measurements.",
+        "Only handwritten guesses.",
+        "Only sundials.",
+        "No, he refuses all sensors."
+      ],
+      "answer": "Yes, including combined sensor measurements."
+    },
+    {
+      "question": "Does his research include hypersonic flight?",
+      "choices": [
+        "No, only walking pace.",
+        "Yes, including hypersonic flight systems.",
+        "Only bicycle bells.",
+        "Only elevator rides."
+      ],
+      "answer": "Yes, including hypersonic flight systems."
+    }
+  ],
+  "slug": "maziar-s-hemati",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/maziar-s-hemati"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/maziar-s-hemati/photo.jpg"
+}

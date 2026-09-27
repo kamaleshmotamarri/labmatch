@@ -1,0 +1,77 @@
+{
+  "name": "Suraj Ravindran",
+  "role": "Assistant Professor",
+  "email": "sravi@umn.edu",
+  "url": "https://cse.umn.edu/aem/suraj-ravindran",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Suraj%20Ravindran%20Headshot%20Website.png.webp?itok=A1Nt5u5Z",
+  "category": "Faculty",
+  "research_summary": "Ravindran studies how materials behave under extreme pressures, temperatures, and rapid deformation, as encountered in high-speed flight and protective systems. He combines impact experiments, fast imaging, and computational tools to examine materials such as ceramics, glass, alloys, composites, and polymers across many scales.",
+  "quiz": [
+    {
+      "question": "What kinds of conditions does Ravindran study?",
+      "choices": [
+        "Mild room-temperature sitting.",
+        "Slow icing of a cake.",
+        "Gentle breeze on a porch.",
+        "Extreme pressure, temperature, and rapid deformation."
+      ],
+      "answer": "Extreme pressure, temperature, and rapid deformation."
+    },
+    {
+      "question": "Name one application of this research.",
+      "choices": [
+        "Picnic blanket folding.",
+        "Office chair cushions only.",
+        "High-speed flight or protective systems.",
+        "Bookstore window displays."
+      ],
+      "answer": "High-speed flight or protective systems."
+    },
+    {
+      "question": "What type of experiment does he use?",
+      "choices": [
+        "Color-matching quizzes.",
+        "Impact experiments.",
+        "Taste tests.",
+        "Opinion surveys."
+      ],
+      "answer": "Impact experiments."
+    },
+    {
+      "question": "Why use very fast imaging?",
+      "choices": [
+        "To observe events that happen very quickly.",
+        "To film graduation speeches.",
+        "To photograph still portraits only.",
+        "To record campus tours."
+      ],
+      "answer": "To observe events that happen very quickly."
+    },
+    {
+      "question": "Name one material he studies.",
+      "choices": [
+        "Notebook paper only.",
+        "Cotton socks only.",
+        "Cardboard tubes only.",
+        "Ceramics, glass, alloys, composites, or polymers."
+      ],
+      "answer": "Ceramics, glass, alloys, composites, or polymers."
+    }
+  ],
+  "slug": "suraj-ravindran",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/suraj-ravindran"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/suraj-ravindran/photo.jpg"
+}

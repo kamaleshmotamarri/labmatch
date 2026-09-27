@@ -1,0 +1,81 @@
+{
+  "name": "Anthony Knutson",
+  "role": "Research Associate Professor",
+  "email": "knuts661@umn.edu",
+  "url": "https://cse.umn.edu/aem/anthony-knutson-0",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/_DSC991023.jpg.webp?itok=jVkWriyH",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Knutson's listed work develops computer simulation tools for hypersonic flows, including flow solvers and mesh refinement. His publications also examine interactions among gas flow, materials, and structures, and the balance between accuracy and computational cost in trajectory simulations.",
+  "quiz": [
+    {
+      "question": "What type of fluid flow is a primary focus of Anthony Knutson's simulations?",
+      "choices": [
+        "Subsonic flow",
+        "Hypersonic flow",
+        "Turbulent flow",
+        "Laminar flow"
+      ],
+      "answer": "Hypersonic flow"
+    },
+    {
+      "question": "Which of these software tools is explicitly mentioned in Anthony Knutson's work?",
+      "choices": [
+        "Data analysis package",
+        "Operating system kernel",
+        "Flow solver",
+        "Image processing suite"
+      ],
+      "answer": "Flow solver"
+    },
+    {
+      "question": "To enhance the representation in Anthony Knutson's simulations, what can be refined?",
+      "choices": [
+        "The user interface",
+        "The mesh",
+        "The output format",
+        "The programming language"
+      ],
+      "answer": "The mesh"
+    },
+    {
+      "question": "Beyond gas flow, what other element is included in Anthony Knutson's coupled models?",
+      "choices": [
+        "Electrical circuits",
+        "Materials",
+        "Biological organisms",
+        "Weather patterns"
+      ],
+      "answer": "Materials"
+    },
+    {
+      "question": "According to the summary, what must be balanced against simulation accuracy in trajectory simulations?",
+      "choices": [
+        "Hardware specifications",
+        "Computational cost",
+        "User experience",
+        "Software version"
+      ],
+      "answer": "Computational cost"
+    }
+  ],
+  "slug": "anthony-knutson",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/anthony-knutson-0"
+    },
+    {
+      "label": "Supplementary research source",
+      "url": "https://experts.umn.edu/en/persons/anthony-l-knutson"
+    }
+  ],
+  "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/anthony-knutson/photo.jpg"
+}

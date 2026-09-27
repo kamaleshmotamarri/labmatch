@@ -1,0 +1,81 @@
+{
+  "name": "Travis W. Drayna",
+  "role": "Research Professor",
+  "email": "tdrayna@umn.edu",
+  "url": "https://cse.umn.edu/aem/travis-w-drayna",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Travis%20Drayna%20Headshot%20Website.png.webp?itok=xo8CoGAF",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Drayna's listed publications concern computational methods for hypersonic flows, including flow solvers and refining the meshes used in simulations. His work also examines simulation accuracy and the use of fluid-dynamics models in guidance and control of hypersonic vehicles.",
+  "quiz": [
+    {
+      "question": "What kind of flow is central to Drayna’s listed work?",
+      "choices": [
+        "Slow river drifting.",
+        "Indoor fan breeze.",
+        "Honey pouring.",
+        "Hypersonic flow."
+      ],
+      "answer": "Hypersonic flow."
+    },
+    {
+      "question": "Does this work use computer simulations?",
+      "choices": [
+        "Yes, including computational flow solvers.",
+        "Only verbal descriptions.",
+        "Only still photographs.",
+        "No, only paper sketches."
+      ],
+      "answer": "Yes, including computational flow solvers."
+    },
+    {
+      "question": "What computational structure does mesh refinement improve?",
+      "choices": [
+        "A fishing net.",
+        "The grid or mesh used to represent a flow.",
+        "A soccer goal.",
+        "A grocery bag."
+      ],
+      "answer": "The grid or mesh used to represent a flow."
+    },
+    {
+      "question": "What quality of predictions does his work examine?",
+      "choices": [
+        "Font weight.",
+        "Loudness.",
+        "Accuracy.",
+        "Poster gloss."
+      ],
+      "answer": "Accuracy."
+    },
+    {
+      "question": "Which vehicle functions can these flow models support?",
+      "choices": [
+        "Ticket printing.",
+        "Campus tour guiding.",
+        "Cafeteria seating.",
+        "Guidance and control."
+      ],
+      "answer": "Guidance and control."
+    }
+  ],
+  "slug": "travis-w-drayna",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/travis-w-drayna"
+    },
+    {
+      "label": "Supplementary research source",
+      "url": "https://experts.umn.edu/en/persons/travis-w-drayna/"
+    }
+  ],
+  "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/travis-w-drayna/photo.jpg"
+}

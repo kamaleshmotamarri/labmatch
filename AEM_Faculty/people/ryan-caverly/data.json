@@ -1,0 +1,77 @@
+{
+  "name": "Ryan Caverly",
+  "role": "Associate Professor, Distinguished University Teaching Professor",
+  "email": "rcaverly@umn.edu",
+  "url": "https://cse.umn.edu/aem/ryan-caverly",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Caverly%20Headshot%20Website.png.webp?itok=MBc1fcQK",
+  "category": "Faculty",
+  "research_summary": "Caverly develops mathematical models and control methods for aircraft, spacecraft, and robots. He especially studies flexible structures and how to control their motion accurately, efficiently, and reliably.",
+  "quiz": [
+    {
+      "question": "Name one type of system Caverly studies.",
+      "choices": [
+        "Kitchen blenders only.",
+        "Aircraft, spacecraft, or robots.",
+        "Garden hoses only.",
+        "Library card catalogs."
+      ],
+      "answer": "Aircraft, spacecraft, or robots."
+    },
+    {
+      "question": "Does he study flexible structures?",
+      "choices": [
+        "Yes, especially flexible structures.",
+        "No, only perfectly rigid bricks.",
+        "Only inflatable pool toys.",
+        "Only stone monuments."
+      ],
+      "answer": "Yes, especially flexible structures."
+    },
+    {
+      "question": "What do his mathematical models describe?",
+      "choices": [
+        "The price of textbooks.",
+        "The seating chart of a classroom.",
+        "The color of lab coats.",
+        "The motion or dynamics of systems."
+      ],
+      "answer": "The motion or dynamics of systems."
+    },
+    {
+      "question": "What do control methods help manage?",
+      "choices": [
+        "A system’s motion or behavior.",
+        "Email fonts.",
+        "Poster board inventory.",
+        "Cafeteria wait times."
+      ],
+      "answer": "A system’s motion or behavior."
+    },
+    {
+      "question": "Does he seek computationally efficient models?",
+      "choices": [
+        "No, slower is always better.",
+        "Yes, including efficient and reliable models.",
+        "Only handwritten sketches.",
+        "Only models that cannot run on a computer."
+      ],
+      "answer": "Yes, including efficient and reliable models."
+    }
+  ],
+  "slug": "ryan-caverly",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/ryan-caverly"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/ryan-caverly/photo.jpg"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Todd Helsa",
+  "role": "Contract Assistant Professor",
+  "email": "hesla@umn.edu",
+  "url": "https://cse.umn.edu/aem/todd-helsa",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Heslaresized.jpg.webp?itok=4QeYT2wK",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Hesla studies how fluids interact with particles and solid bodies using theory and computer calculations. He also works on finite-element methods, which divide a problem into smaller pieces for numerical analysis.",
+  "quiz": [
+    {
+      "question": "What does Hesla study interacting with fluids?",
+      "choices": [
+        "Sheet music and lyrics.",
+        "Postage stamps and envelopes.",
+        "Menu items and prices.",
+        "Particles and solid bodies."
+      ],
+      "answer": "Particles and solid bodies."
+    },
+    {
+      "question": "Does his research use theory?",
+      "choices": [
+        "Yes, including theoretical analysis.",
+        "Only cafeteria rumors.",
+        "Only sports commentary.",
+        "No, only guesswork."
+      ],
+      "answer": "Yes, including theoretical analysis."
+    },
+    {
+      "question": "Does his research use computer calculations?",
+      "choices": [
+        "No, only mental arithmetic for tips.",
+        "Yes, including computer calculations.",
+        "Only chalkboard doodles.",
+        "Only paper airplanes."
+      ],
+      "answer": "Yes, including computer calculations."
+    },
+    {
+      "question": "What numerical method is named in his interests?",
+      "choices": [
+        "The alphabet method.",
+        "The coin-flip method.",
+        "The finite-element method.",
+        "The seating-chart method."
+      ],
+      "answer": "The finite-element method."
+    },
+    {
+      "question": "What does that method divide a problem into?",
+      "choices": [
+        "Unrelated photographs.",
+        "Campus zip codes.",
+        "Random paragraphs.",
+        "Smaller pieces or elements."
+      ],
+      "answer": "Smaller pieces or elements."
+    }
+  ],
+  "slug": "todd-helsa",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/todd-helsa"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [
+    "The directory spells the name “Todd Helsa”; the linked profile and research text use “Todd Hesla.” The folder preserves the directory spelling."
+  ],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/todd-helsa/photo.jpg"
+}

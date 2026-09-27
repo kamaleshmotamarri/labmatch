@@ -1,0 +1,77 @@
+{
+  "name": "Thomas W. Shield",
+  "role": "Professor Emeritus",
+  "email": "shield@umn.edu",
+  "url": "https://cse.umn.edu/aem/thomas-w-shield",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/shieldresized.jpg.webp?itok=sSwQUSlJ",
+  "category": "Emeritus Faculty",
+  "research_summary": "Shield studies how small-scale structures inside materials affect their overall behavior and how they crack. He combines experiments and models of shape-memory and magnetically responsive materials to support better actuators, sensors, and related devices.",
+  "quiz": [
+    {
+      "question": "What internal features does Shield study?",
+      "choices": [
+        "Microstructures or small-scale material structures.",
+        "Email subject lines.",
+        "Street-sign fonts.",
+        "Campus building names."
+      ],
+      "answer": "Microstructures or small-scale material structures."
+    },
+    {
+      "question": "What type of damage is central to his research?",
+      "choices": [
+        "Torn notebook paper.",
+        "A chipped coffee mug only.",
+        "Cracking or fracture.",
+        "A scratched phone screen only."
+      ],
+      "answer": "Cracking or fracture."
+    },
+    {
+      "question": "Name one special material type he studies.",
+      "choices": [
+        "Shape-memory or magnetically responsive materials.",
+        "Wet sand only.",
+        "Ordinary copier paper.",
+        "Cotton balls only."
+      ],
+      "answer": "Shape-memory or magnetically responsive materials."
+    },
+    {
+      "question": "Does he use experiments, models, or both?",
+      "choices": [
+        "Only hallway conversations.",
+        "Neither; only course titles.",
+        "Only yearbook photos.",
+        "Both experiments and models."
+      ],
+      "answer": "Both experiments and models."
+    },
+    {
+      "question": "Name one device his research can help improve.",
+      "choices": [
+        "A bicycle bell.",
+        "A clipboard.",
+        "An actuator or a sensor.",
+        "A stapler."
+      ],
+      "answer": "An actuator or a sensor."
+    }
+  ],
+  "slug": "thomas-w-shield",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/thomas-w-shield"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/thomas-w-shield/photo.jpg"
+}

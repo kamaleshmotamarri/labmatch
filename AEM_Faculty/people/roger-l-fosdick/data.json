@@ -1,0 +1,80 @@
+{
+  "name": "Roger L. Fosdick",
+  "role": "Professor Emeritus (Retired 2013)",
+  "email": null,
+  "url": "https://cse.umn.edu/aem/roger-l-fosdick",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Fosdick%20Edit%20for%20Site.png.webp?itok=hCOddcRR",
+  "category": "Emeritus Faculty",
+  "research_summary": "Fosdick studies thermodynamics, continuum mechanics, and nonlinear material behavior using applied mathematics. His work addresses both practical problems and the foundational theories describing energy, forces, and deformation in materials.",
+  "quiz": [
+    {
+      "question": "What field in Fosdick’s work concerns heat and energy?",
+      "choices": [
+        "Thermodynamics.",
+        "Fashion history.",
+        "Sports commentary.",
+        "Music theory."
+      ],
+      "answer": "Thermodynamics."
+    },
+    {
+      "question": "What mechanics framework is listed in his research?",
+      "choices": [
+        "Board-game mechanics.",
+        "Continuum mechanics.",
+        "Stage-lighting cues.",
+        "Auto-repair checklists."
+      ],
+      "answer": "Continuum mechanics."
+    },
+    {
+      "question": "Does he study nonlinear material behavior?",
+      "choices": [
+        "Only linear algebra homework.",
+        "No, only perfectly linear springs in cartoons.",
+        "Yes, including nonlinear material behavior.",
+        "Only straight hallway walking."
+      ],
+      "answer": "Yes, including nonlinear material behavior."
+    },
+    {
+      "question": "What tool does he use to analyze these problems?",
+      "choices": [
+        "Opinion polling.",
+        "Stopwatch races.",
+        "Watercolor painting.",
+        "Applied mathematics."
+      ],
+      "answer": "Applied mathematics."
+    },
+    {
+      "question": "Does his research address practical applications, foundations, or both?",
+      "choices": [
+        "Both practical problems and foundational theory.",
+        "Neither; it is only a course title.",
+        "Only sports scores.",
+        "Only cafeteria planning."
+      ],
+      "answer": "Both practical problems and foundational theory."
+    }
+  ],
+  "slug": "roger-l-fosdick",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/roger-l-fosdick"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [
+    "The profile provides a short research description; the quiz includes basic explanations of those stated topics.",
+    "No individual email is listed in the current AEM directory or linked profile. Department contact: aem-department@umn.edu (not the individual’s address)."
+  ],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/roger-l-fosdick/photo.jpg"
+}

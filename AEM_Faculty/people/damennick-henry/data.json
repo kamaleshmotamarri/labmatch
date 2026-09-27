@@ -1,0 +1,77 @@
+{
+  "name": "Damennick Henry",
+  "role": "Assistant Professor",
+  "email": "henry474@umn.edu",
+  "url": "https://cse.umn.edu/aem/damennick-henry",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/DH%20Resize.JPG.webp?itok=eAOHb46-",
+  "category": "Faculty",
+  "research_summary": "Henry develops mathematical theory and computational tools for spacecraft operating in complex, chaotic orbital environments. His applications include fuel-saving transfers near Earth and the Moon, coordinated spacecraft formations, and guidance, navigation, and control.",
+  "quiz": [
+    {
+      "question": "What type of vehicle does Professor Damennick Henry study in his research?",
+      "choices": [
+        "Submarines",
+        "Automobiles",
+        "Aircraft",
+        "Spacecraft"
+      ],
+      "answer": "Spacecraft"
+    },
+    {
+      "question": "According to the summary, are the orbital environments Henry studies always simple and predictable?",
+      "choices": [
+        "Yes, they are always straightforward.",
+        "No, they can be complex and chaotic.",
+        "Yes, with minor variations.",
+        "No, they are usually stable but unpredictable."
+      ],
+      "answer": "No, they can be complex and chaotic."
+    },
+    {
+      "question": "Which two celestial bodies define the nearby region highlighted in Professor Henry's work?",
+      "choices": [
+        "Sun and Mercury",
+        "Earth and the Moon",
+        "Mars and Jupiter",
+        "Saturn and its rings"
+      ],
+      "answer": "Earth and the Moon"
+    },
+    {
+      "question": "What resource can improved orbital transfers, as studied by Professor Henry, help save?",
+      "choices": [
+        "Time",
+        "Personnel",
+        "Data",
+        "Fuel"
+      ],
+      "answer": "Fuel"
+    },
+    {
+      "question": "What does \"coordinated spacecraft formations\" or \"formation flying\" involve in Professor Henry's research?",
+      "choices": [
+        "A single spacecraft performing complex maneuvers.",
+        "Ground crews controlling individual spacecraft.",
+        "Multiple spacecraft flying in a coordinated arrangement.",
+        "Multiple spacecraft flying independently."
+      ],
+      "answer": "Multiple spacecraft flying in a coordinated arrangement."
+    }
+  ],
+  "slug": "damennick-henry",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/damennick-henry"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/damennick-henry/photo.jpg"
+}

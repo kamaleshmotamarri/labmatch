@@ -1,0 +1,77 @@
+{
+  "name": "Anabel del Val",
+  "role": "Assistant Professor",
+  "email": "adelvalb@umn.edu",
+  "url": "https://cse.umn.edu/aem/anabel-del-val",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Anabel%20Headshot%20for%20Website_0.png.webp?itok=dDyDhDSO",
+  "category": "Faculty",
+  "research_summary": "del Val studies how uncertainty affects predictions of very fast, hot, chemically reacting gas flows. She uses statistical and data-based methods to improve models, identify influential inputs, and design more informative experiments.",
+  "quiz": [
+    {
+      "question": "What aspect of flow predictions does Anabel del Val primarily study?",
+      "choices": [
+        "Their speed and velocity.",
+        "Their chemical properties.",
+        "How uncertainty affects them.",
+        "Their temperature variations."
+      ],
+      "answer": "How uncertainty affects them."
+    },
+    {
+      "question": "Do Anabel del Val's research interests include chemically reacting gas flows?",
+      "choices": [
+        "No, she focuses only on non-reactive flows.",
+        "Yes, specifically very fast, hot ones.",
+        "Only theoretical, not practical, applications.",
+        "Rarely, only when they are very slow."
+      ],
+      "answer": "Yes, specifically very fast, hot ones."
+    },
+    {
+      "question": "Which types of methods does del Val use to handle uncertainty in her models?",
+      "choices": [
+        "Computational fluid dynamics and simulations.",
+        "Analytical and theoretical physics methods.",
+        "Statistical and data-based methods.",
+        "Observational and empirical methods."
+      ],
+      "answer": "Statistical and data-based methods."
+    },
+    {
+      "question": "What is the primary reason Anabel del Val identifies influential model inputs?",
+      "choices": [
+        "To make the models run faster.",
+        "To understand which inputs most affect predictions.",
+        "To minimize the overall number of inputs.",
+        "To increase the complexity of the models."
+      ],
+      "answer": "To understand which inputs most affect predictions."
+    },
+    {
+      "question": "When designing experiments, what does Anabel del Val aim to improve?",
+      "choices": [
+        "Their cost-effectiveness.",
+        "The speed at which they can be performed.",
+        "How much useful information they provide.",
+        "The variety of temperature and pressure conditions."
+      ],
+      "answer": "How much useful information they provide."
+    }
+  ],
+  "slug": "anabel-del-val",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/anabel-del-val"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/anabel-del-val/photo.jpg"
+}

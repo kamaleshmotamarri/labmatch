@@ -1,0 +1,77 @@
+{
+  "name": "Demoz Gebre-Egziabher",
+  "role": "Professor & Director of the Minnesota Space Grant Consortium",
+  "email": "gebre@umn.edu",
+  "url": "https://cse.umn.edu/aem/demoz-gebre-egziabher",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Gebreresized.jpeg.webp?itok=NzCM_HMX",
+  "category": "Faculty",
+  "research_summary": "Gebre-Egziabher develops navigation, guidance, and control methods for aerospace vehicles by combining information from multiple sensors. His work emphasizes reliability and supports precise aircraft navigation, satellite orientation measurements, and small autonomous aircraft.",
+  "quiz": [
+    {
+      "question": "What does navigation primarily help a vehicle determine?",
+      "choices": [
+        "Its payload capacity.",
+        "Its current location and how to reach a destination.",
+        "Its maintenance requirements.",
+        "Its current speed and altitude."
+      ],
+      "answer": "Its current location and how to reach a destination."
+    },
+    {
+      "question": "Professor Gebre-Egziabher's research combines information from how many sensors?",
+      "choices": [
+        "Only newly developed experimental sensors.",
+        "Multiple sensors.",
+        "One primary sensor.",
+        "Primarily visual sensors."
+      ],
+      "answer": "Multiple sensors."
+    },
+    {
+      "question": "Besides accuracy, what other important quality does Professor Gebre-Egziabher's research emphasize?",
+      "choices": [
+        "Efficiency.",
+        "Reliability.",
+        "Speed.",
+        "Cost-effectiveness."
+      ],
+      "answer": "Reliability."
+    },
+    {
+      "question": "What specific property of satellites does Professor Gebre-Egziabher's work help measure?",
+      "choices": [
+        "Their operational lifespan.",
+        "Their maximum payload capacity.",
+        "Their orientation.",
+        "Their launch trajectory."
+      ],
+      "answer": "Their orientation."
+    },
+    {
+      "question": "To which of the following does Professor Gebre-Egziabher's research apply?",
+      "choices": [
+        "Deep-sea submersible robots.",
+        "Small autonomous aircraft.",
+        "Only large passenger jets.",
+        "Satellite deployment vehicles."
+      ],
+      "answer": "Small autonomous aircraft."
+    }
+  ],
+  "slug": "demoz-gebre-egziabher",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/demoz-gebre-egziabher"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/demoz-gebre-egziabher/photo.jpg"
+}

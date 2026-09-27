@@ -1,0 +1,81 @@
+{
+  "name": "Pramod Subbareddy",
+  "role": "Research Professor",
+  "email": "pramod@umn.edu",
+  "url": "https://cse.umn.edu/aem/pramod-subbareddy-0",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Pramod%20Headshot.png.webp?itok=qSlJYmrs",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Subbareddy's listed research develops computational methods for hypersonic and chemically reacting flows. His publications include flow-solver development, numerical accuracy, high-speed flow analysis, and methods for simulating flows containing multiple phases.",
+  "quiz": [
+    {
+      "question": "What high-speed flow regime appears in Subbareddy’s research?",
+      "choices": [
+        "Indoor humidifier mist.",
+        "Hypersonic flow.",
+        "Walking-speed airflow.",
+        "Slow molasses flow."
+      ],
+      "answer": "Hypersonic flow."
+    },
+    {
+      "question": "Can the gases he models undergo chemical reactions?",
+      "choices": [
+        "Yes, including chemically reacting flows.",
+        "No, they stay chemically frozen.",
+        "Only if they are painted first.",
+        "Only in cooking recipes."
+      ],
+      "answer": "Yes, including chemically reacting flows."
+    },
+    {
+      "question": "What software tool does he help develop?",
+      "choices": [
+        "A restaurant reservation app.",
+        "A photo filter pack.",
+        "A calendar reminder.",
+        "A flow solver."
+      ],
+      "answer": "A flow solver."
+    },
+    {
+      "question": "What quality of numerical results does his work examine?",
+      "choices": [
+        "Speaker volume.",
+        "Wallpaper patterns.",
+        "Accuracy.",
+        "Font kerning."
+      ],
+      "answer": "Accuracy."
+    },
+    {
+      "question": "Does multiphase flow involve one phase only or more than one?",
+      "choices": [
+        "Only solid ice cubes.",
+        "More than one phase.",
+        "Exactly one phase always.",
+        "No phases at all."
+      ],
+      "answer": "More than one phase."
+    }
+  ],
+  "slug": "pramod-subbareddy",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/pramod-subbareddy-0"
+    },
+    {
+      "label": "Supplementary research source",
+      "url": "https://experts.umn.edu/en/persons/pramod-k-subbareddy"
+    }
+  ],
+  "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/pramod-subbareddy/photo.jpg"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "James Scoggins",
+  "role": "Associate Professor",
+  "email": "jscoggin@umn.edu",
+  "url": "https://cse.umn.edu/aem/james-scoggins",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/JB%20Scoggins.png.webp?itok=5p0TktzH",
+  "category": "Faculty",
+  "research_summary": "Scoggins combines physics-based modeling and machine learning to predict extreme heating and gas-flow behavior during hypersonic flight. His work includes spacecraft and meteor entry, radiation, thermal-protection materials, and interpreting flight sensors under uncertainty.",
+  "quiz": [
+    {
+      "question": "Which data-based approach does Scoggins combine with physics models?",
+      "choices": [
+        "Machine learning.",
+        "Random coin flips.",
+        "Opinion polls of tourists.",
+        "Handwritten ledger counting."
+      ],
+      "answer": "Machine learning."
+    },
+    {
+      "question": "What temperature-related hazard does he study?",
+      "choices": [
+        "Home refrigerator settings.",
+        "Indoor office air-conditioning.",
+        "Extreme heating.",
+        "Seasonal garden frost only."
+      ],
+      "answer": "Extreme heating."
+    },
+    {
+      "question": "Name one object whose atmospheric entry he studies.",
+      "choices": [
+        "A spacecraft or a meteor.",
+        "A river canoe.",
+        "A city bus.",
+        "A bicycle wheel."
+      ],
+      "answer": "A spacecraft or a meteor."
+    },
+    {
+      "question": "What materials help protect entry vehicles from heat?",
+      "choices": [
+        "Cotton blankets.",
+        "Cardboard packaging.",
+        "Window screens.",
+        "Thermal-protection materials."
+      ],
+      "answer": "Thermal-protection materials."
+    },
+    {
+      "question": "Does his sensor work account for uncertainty?",
+      "choices": [
+        "Only for weather forecasts.",
+        "Only for classroom timers.",
+        "Yes, including uncertainty in flight sensors.",
+        "No, he ignores all sensor error."
+      ],
+      "answer": "Yes, including uncertainty in flight sensors."
+    }
+  ],
+  "slug": "james-scoggins",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/james-scoggins"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/james-scoggins/photo.jpg"
+}

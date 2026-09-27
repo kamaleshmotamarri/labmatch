@@ -1,0 +1,83 @@
+{
+  "name": "Bill Kunik",
+  "role": "Adjunct Faculty",
+  "email": "kuni0020@umn.edu",
+  "url": "https://cse.umn.edu/aem/bill-kunik",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Bill%20Kunik%20Photo%20Edit%20for%20Site.png.webp?itok=slhw4sPs",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Kunik's AEM profile does not describe a research program, but a published aircraft air-data study acknowledges his assistance. That project modeled sensor-system faults, including pressure-probe blockages, and developed methods to detect them; the quiz covers this documented project rather than an assumed current research agenda.",
+  "quiz": [
+    {
+      "question": "What aircraft system was the focus of the documented project?",
+      "choices": [
+        "The navigation system",
+        "The air-data system",
+        "The engine management system",
+        "The landing gear system"
+      ],
+      "answer": "The air-data system"
+    },
+    {
+      "question": "The documented project aimed to detect what kind of problem?",
+      "choices": [
+        "Software bugs",
+        "Communication errors",
+        "Sensor-system faults",
+        "Pilot errors"
+      ],
+      "answer": "Sensor-system faults"
+    },
+    {
+      "question": "Which specific sensor component was identified as susceptible to blockages in the project?",
+      "choices": [
+        "A temperature sensor",
+        "A pressure probe",
+        "A radar altimeter",
+        "A gyroscope"
+      ],
+      "answer": "A pressure probe"
+    },
+    {
+      "question": "Was mathematical modeling a component of the documented project?",
+      "choices": [
+        "No, it was purely experimental",
+        "Only theoretical analysis, not modeling",
+        "Yes, it modeled sensor-system faults",
+        "It involved only physical prototypes"
+      ],
+      "answer": "Yes, it modeled sensor-system faults"
+    },
+    {
+      "question": "Detecting faulty air-data measurements is useful for what primary reason?",
+      "choices": [
+        "To reduce fuel consumption",
+        "To enhance passenger entertainment systems",
+        "To identify unreliable aircraft information and support safety",
+        "To improve aircraft exterior aesthetics"
+      ],
+      "answer": "To identify unreliable aircraft information and support safety"
+    }
+  ],
+  "slug": "bill-kunik",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/bill-kunik"
+    },
+    {
+      "label": "Supplementary research source",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0967066113000993"
+    }
+  ],
+  "research_basis": "Related published project acknowledging Bill Kunik’s assistance; AEM profile has no research description.",
+  "notes": [
+    "The quiz concerns the acknowledged project, not a verified current research program. Kunik is acknowledged as assisting, not listed here as a paper author."
+  ],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/bill-kunik/photo.jpg"
+}

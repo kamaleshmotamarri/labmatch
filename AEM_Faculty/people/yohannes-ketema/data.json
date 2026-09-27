@@ -1,0 +1,77 @@
+{
+  "name": "Yohannes Ketema",
+  "role": "Professor & Director of Undergraduate Studies",
+  "email": "ketema@umn.edu",
+  "url": "https://cse.umn.edu/aem/yohannes-ketema",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Yohannes%20Ketema%20Headshot%20Website.png.webp?itok=NGSauIWE",
+  "category": "Faculty",
+  "research_summary": "Ketema studies motion and stability, including spacecraft orbits, unmanned-aircraft paths, and vibration control using active materials. He also models human walking to estimate step size for pedestrian navigation.",
+  "quiz": [
+    {
+      "question": "What broad subject unites Ketema’s research?",
+      "choices": [
+        "Cookbook editing.",
+        "Interior decorating.",
+        "Stamp collecting.",
+        "Dynamics, or the study of motion."
+      ],
+      "answer": "Dynamics, or the study of motion."
+    },
+    {
+      "question": "What space-related paths does he study?",
+      "choices": [
+        "Subway transfers downtown.",
+        "Library aisle routes.",
+        "Spacecraft orbits and transfers between them.",
+        "Hiking trails in a city park."
+      ],
+      "answer": "Spacecraft orbits and transfers between them."
+    },
+    {
+      "question": "What unwanted motion can active materials help reduce?",
+      "choices": [
+        "Footsteps in a hallway.",
+        "Vibration.",
+        "Daylight.",
+        "Email notifications."
+      ],
+      "answer": "Vibration."
+    },
+    {
+      "question": "What everyday human activity does he model?",
+      "choices": [
+        "Walking.",
+        "Sleeping.",
+        "Whistling.",
+        "Typing passwords."
+      ],
+      "answer": "Walking."
+    },
+    {
+      "question": "Why estimate step size?",
+      "choices": [
+        "To design shoe commercials.",
+        "To time cooking pasta.",
+        "To rank dance contests.",
+        "To help pedestrian navigation."
+      ],
+      "answer": "To help pedestrian navigation."
+    }
+  ],
+  "slug": "yohannes-ketema",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/yohannes-ketema"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/yohannes-ketema/photo.jpg"
+}

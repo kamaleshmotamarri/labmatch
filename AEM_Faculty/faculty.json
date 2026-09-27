@@ -1,0 +1,2735 @@
+[
+  {
+    "name": "Anabel del Val",
+    "role": "Assistant Professor",
+    "email": "adelvalb@umn.edu",
+    "url": "https://cse.umn.edu/aem/anabel-del-val",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Anabel%20Headshot%20for%20Website_0.png.webp?itok=dDyDhDSO",
+    "category": "Faculty",
+    "research_summary": "del Val studies how uncertainty affects predictions of very fast, hot, chemically reacting gas flows. She uses statistical and data-based methods to improve models, identify influential inputs, and design more informative experiments.",
+    "quiz": [
+      {
+        "question": "What aspect of flow predictions does Anabel del Val primarily study?",
+        "choices": [
+          "Their speed and velocity.",
+          "Their chemical properties.",
+          "How uncertainty affects them.",
+          "Their temperature variations."
+        ],
+        "answer": "How uncertainty affects them."
+      },
+      {
+        "question": "Do Anabel del Val's research interests include chemically reacting gas flows?",
+        "choices": [
+          "No, she focuses only on non-reactive flows.",
+          "Yes, specifically very fast, hot ones.",
+          "Only theoretical, not practical, applications.",
+          "Rarely, only when they are very slow."
+        ],
+        "answer": "Yes, specifically very fast, hot ones."
+      },
+      {
+        "question": "Which types of methods does del Val use to handle uncertainty in her models?",
+        "choices": [
+          "Computational fluid dynamics and simulations.",
+          "Analytical and theoretical physics methods.",
+          "Statistical and data-based methods.",
+          "Observational and empirical methods."
+        ],
+        "answer": "Statistical and data-based methods."
+      },
+      {
+        "question": "What is the primary reason Anabel del Val identifies influential model inputs?",
+        "choices": [
+          "To make the models run faster.",
+          "To understand which inputs most affect predictions.",
+          "To minimize the overall number of inputs.",
+          "To increase the complexity of the models."
+        ],
+        "answer": "To understand which inputs most affect predictions."
+      },
+      {
+        "question": "When designing experiments, what does Anabel del Val aim to improve?",
+        "choices": [
+          "Their cost-effectiveness.",
+          "The speed at which they can be performed.",
+          "How much useful information they provide.",
+          "The variety of temperature and pressure conditions."
+        ],
+        "answer": "How much useful information they provide."
+      }
+    ],
+    "slug": "anabel-del-val",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/anabel-del-val"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/anabel-del-val/photo.jpg"
+  },
+  {
+    "name": "Anthony Knutson",
+    "role": "Research Associate Professor",
+    "email": "knuts661@umn.edu",
+    "url": "https://cse.umn.edu/aem/anthony-knutson-0",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/_DSC991023.jpg.webp?itok=jVkWriyH",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Knutson's listed work develops computer simulation tools for hypersonic flows, including flow solvers and mesh refinement. His publications also examine interactions among gas flow, materials, and structures, and the balance between accuracy and computational cost in trajectory simulations.",
+    "quiz": [
+      {
+        "question": "What type of fluid flow is a primary focus of Anthony Knutson's simulations?",
+        "choices": [
+          "Subsonic flow",
+          "Hypersonic flow",
+          "Turbulent flow",
+          "Laminar flow"
+        ],
+        "answer": "Hypersonic flow"
+      },
+      {
+        "question": "Which of these software tools is explicitly mentioned in Anthony Knutson's work?",
+        "choices": [
+          "Data analysis package",
+          "Operating system kernel",
+          "Flow solver",
+          "Image processing suite"
+        ],
+        "answer": "Flow solver"
+      },
+      {
+        "question": "To enhance the representation in Anthony Knutson's simulations, what can be refined?",
+        "choices": [
+          "The user interface",
+          "The mesh",
+          "The output format",
+          "The programming language"
+        ],
+        "answer": "The mesh"
+      },
+      {
+        "question": "Beyond gas flow, what other element is included in Anthony Knutson's coupled models?",
+        "choices": [
+          "Electrical circuits",
+          "Materials",
+          "Biological organisms",
+          "Weather patterns"
+        ],
+        "answer": "Materials"
+      },
+      {
+        "question": "According to the summary, what must be balanced against simulation accuracy in trajectory simulations?",
+        "choices": [
+          "Hardware specifications",
+          "Computational cost",
+          "User experience",
+          "Software version"
+        ],
+        "answer": "Computational cost"
+      }
+    ],
+    "slug": "anthony-knutson",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/anthony-knutson-0"
+      },
+      {
+        "label": "Supplementary research source",
+        "url": "https://experts.umn.edu/en/persons/anthony-l-knutson"
+      }
+    ],
+    "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/anthony-knutson/photo.jpg"
+  },
+  {
+    "name": "Anubhav Dwivedi",
+    "role": "Research Assistant Professor",
+    "email": "dwive016@umn.edu",
+    "url": "https://cse.umn.edu/aem/anubhav-dwivedi",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Anubhav%20Photo.png.webp?itok=nKDSsVN8",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Dwivedi's research interests include computer modeling of fast, compressible flows, plasma dynamics, uncertainty, and data-driven methods. His documented work also examines how hypersonic boundary layers become unstable and transition toward turbulence.",
+    "quiz": [
+      {
+        "question": "What kind of flows does Dwivedi model?",
+        "choices": [
+          "Turbulent, incompressible flows",
+          "Laminar, steady flows",
+          "Slow, incompressible flows",
+          "Fast, compressible flows"
+        ],
+        "answer": "Fast, compressible flows"
+      },
+      {
+        "question": "What ionized-gas topic appears in his interests?",
+        "choices": [
+          "Static charge analysis",
+          "Electric field theory",
+          "Plasma dynamics",
+          "Ionized gas chemistry"
+        ],
+        "answer": "Plasma dynamics"
+      },
+      {
+        "question": "Is uncertainty a part of Dwivedi's research interests?",
+        "choices": [
+          "He studies certainty, not uncertainty.",
+          "No, he focuses on deterministic models.",
+          "Yes, it is a stated interest.",
+          "Only in very specific, limited cases."
+        ],
+        "answer": "Yes, it is a stated interest."
+      },
+      {
+        "question": "Are data-driven methods part of Dwivedi's research toolkit?",
+        "choices": [
+          "He primarily uses experimental methods.",
+          "Yes, he includes them.",
+          "No, his methods are purely theoretical.",
+          "He uses them only for visualization."
+        ],
+        "answer": "Yes, he includes them."
+      },
+      {
+        "question": "What specific flow change is examined in Dwivedi's hypersonic research?",
+        "choices": [
+          "Transition toward turbulence",
+          "Laminar flow stabilization",
+          "Shockwave formation",
+          "Flow separation"
+        ],
+        "answer": "Transition toward turbulence"
+      }
+    ],
+    "slug": "anubhav-dwivedi",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/anubhav-dwivedi"
+      },
+      {
+        "label": "Supplementary research source",
+        "url": "https://dwivedi-anubhav.github.io/website/"
+      }
+    ],
+    "research_basis": "Research interests and publications on the researcher’s personal website (older affiliation; role and email taken from current AEM directory).",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/anubhav-dwivedi/photo.jpg"
+  },
+  {
+    "name": "Bill Kunik",
+    "role": "Adjunct Faculty",
+    "email": "kuni0020@umn.edu",
+    "url": "https://cse.umn.edu/aem/bill-kunik",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Bill%20Kunik%20Photo%20Edit%20for%20Site.png.webp?itok=slhw4sPs",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Kunik's AEM profile does not describe a research program, but a published aircraft air-data study acknowledges his assistance. That project modeled sensor-system faults, including pressure-probe blockages, and developed methods to detect them; the quiz covers this documented project rather than an assumed current research agenda.",
+    "quiz": [
+      {
+        "question": "What aircraft system was the focus of the documented project?",
+        "choices": [
+          "The navigation system",
+          "The air-data system",
+          "The engine management system",
+          "The landing gear system"
+        ],
+        "answer": "The air-data system"
+      },
+      {
+        "question": "The documented project aimed to detect what kind of problem?",
+        "choices": [
+          "Software bugs",
+          "Communication errors",
+          "Sensor-system faults",
+          "Pilot errors"
+        ],
+        "answer": "Sensor-system faults"
+      },
+      {
+        "question": "Which specific sensor component was identified as susceptible to blockages in the project?",
+        "choices": [
+          "A temperature sensor",
+          "A pressure probe",
+          "A radar altimeter",
+          "A gyroscope"
+        ],
+        "answer": "A pressure probe"
+      },
+      {
+        "question": "Was mathematical modeling a component of the documented project?",
+        "choices": [
+          "No, it was purely experimental",
+          "Only theoretical analysis, not modeling",
+          "Yes, it modeled sensor-system faults",
+          "It involved only physical prototypes"
+        ],
+        "answer": "Yes, it modeled sensor-system faults"
+      },
+      {
+        "question": "Detecting faulty air-data measurements is useful for what primary reason?",
+        "choices": [
+          "To reduce fuel consumption",
+          "To enhance passenger entertainment systems",
+          "To identify unreliable aircraft information and support safety",
+          "To improve aircraft exterior aesthetics"
+        ],
+        "answer": "To identify unreliable aircraft information and support safety"
+      }
+    ],
+    "slug": "bill-kunik",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/bill-kunik"
+      },
+      {
+        "label": "Supplementary research source",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0967066113000993"
+      }
+    ],
+    "research_basis": "Related published project acknowledging Bill Kunik’s assistance; AEM profile has no research description.",
+    "notes": [
+      "The quiz concerns the acknowledged project, not a verified current research program. Kunik is acknowledged as assisting, not listed here as a paper author."
+    ],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/bill-kunik/photo.jpg"
+  },
+  {
+    "name": "Damennick Henry",
+    "role": "Assistant Professor",
+    "email": "henry474@umn.edu",
+    "url": "https://cse.umn.edu/aem/damennick-henry",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/DH%20Resize.JPG.webp?itok=eAOHb46-",
+    "category": "Faculty",
+    "research_summary": "Henry develops mathematical theory and computational tools for spacecraft operating in complex, chaotic orbital environments. His applications include fuel-saving transfers near Earth and the Moon, coordinated spacecraft formations, and guidance, navigation, and control.",
+    "quiz": [
+      {
+        "question": "What type of vehicle does Professor Damennick Henry study in his research?",
+        "choices": [
+          "Submarines",
+          "Automobiles",
+          "Aircraft",
+          "Spacecraft"
+        ],
+        "answer": "Spacecraft"
+      },
+      {
+        "question": "According to the summary, are the orbital environments Henry studies always simple and predictable?",
+        "choices": [
+          "Yes, they are always straightforward.",
+          "No, they can be complex and chaotic.",
+          "Yes, with minor variations.",
+          "No, they are usually stable but unpredictable."
+        ],
+        "answer": "No, they can be complex and chaotic."
+      },
+      {
+        "question": "Which two celestial bodies define the nearby region highlighted in Professor Henry's work?",
+        "choices": [
+          "Sun and Mercury",
+          "Earth and the Moon",
+          "Mars and Jupiter",
+          "Saturn and its rings"
+        ],
+        "answer": "Earth and the Moon"
+      },
+      {
+        "question": "What resource can improved orbital transfers, as studied by Professor Henry, help save?",
+        "choices": [
+          "Time",
+          "Personnel",
+          "Data",
+          "Fuel"
+        ],
+        "answer": "Fuel"
+      },
+      {
+        "question": "What does \"coordinated spacecraft formations\" or \"formation flying\" involve in Professor Henry's research?",
+        "choices": [
+          "A single spacecraft performing complex maneuvers.",
+          "Ground crews controlling individual spacecraft.",
+          "Multiple spacecraft flying in a coordinated arrangement.",
+          "Multiple spacecraft flying independently."
+        ],
+        "answer": "Multiple spacecraft flying in a coordinated arrangement."
+      }
+    ],
+    "slug": "damennick-henry",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/damennick-henry"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/damennick-henry/photo.jpg"
+  },
+  {
+    "name": "Demoz Gebre-Egziabher",
+    "role": "Professor & Director of the Minnesota Space Grant Consortium",
+    "email": "gebre@umn.edu",
+    "url": "https://cse.umn.edu/aem/demoz-gebre-egziabher",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Gebreresized.jpeg.webp?itok=NzCM_HMX",
+    "category": "Faculty",
+    "research_summary": "Gebre-Egziabher develops navigation, guidance, and control methods for aerospace vehicles by combining information from multiple sensors. His work emphasizes reliability and supports precise aircraft navigation, satellite orientation measurements, and small autonomous aircraft.",
+    "quiz": [
+      {
+        "question": "What does navigation primarily help a vehicle determine?",
+        "choices": [
+          "Its payload capacity.",
+          "Its current location and how to reach a destination.",
+          "Its maintenance requirements.",
+          "Its current speed and altitude."
+        ],
+        "answer": "Its current location and how to reach a destination."
+      },
+      {
+        "question": "Professor Gebre-Egziabher's research combines information from how many sensors?",
+        "choices": [
+          "Only newly developed experimental sensors.",
+          "Multiple sensors.",
+          "One primary sensor.",
+          "Primarily visual sensors."
+        ],
+        "answer": "Multiple sensors."
+      },
+      {
+        "question": "Besides accuracy, what other important quality does Professor Gebre-Egziabher's research emphasize?",
+        "choices": [
+          "Efficiency.",
+          "Reliability.",
+          "Speed.",
+          "Cost-effectiveness."
+        ],
+        "answer": "Reliability."
+      },
+      {
+        "question": "What specific property of satellites does Professor Gebre-Egziabher's work help measure?",
+        "choices": [
+          "Their operational lifespan.",
+          "Their maximum payload capacity.",
+          "Their orientation.",
+          "Their launch trajectory."
+        ],
+        "answer": "Their orientation."
+      },
+      {
+        "question": "To which of the following does Professor Gebre-Egziabher's research apply?",
+        "choices": [
+          "Deep-sea submersible robots.",
+          "Small autonomous aircraft.",
+          "Only large passenger jets.",
+          "Satellite deployment vehicles."
+        ],
+        "answer": "Small autonomous aircraft."
+      }
+    ],
+    "slug": "demoz-gebre-egziabher",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/demoz-gebre-egziabher"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/demoz-gebre-egziabher/photo.jpg"
+  },
+  {
+    "name": "Ellad B. Tadmor",
+    "role": "Professor, Russell J. Penrose Professor",
+    "email": "tadmor@umn.edu",
+    "url": "https://cse.umn.edu/aem/ellad-b-tadmor",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Tadmorresized.jpeg.webp?itok=zj44qaAx",
+    "category": "Faculty",
+    "research_summary": "Tadmor develops physics-based and machine-learning models of how solid and two-dimensional materials respond to heat, forces, and failure. He connects atomic-scale behavior with larger-scale mechanics using molecular dynamics, finite-element methods, and multiscale modeling.",
+    "quiz": [
+      {
+        "question": "What two broad types of modeling does Professor Tadmor use in his research?",
+        "choices": [
+          "Analytical solutions and numerical approximations",
+          "Physics-based modeling and machine learning",
+          "Experimental observation and theoretical derivation",
+          "Qualitative analysis and quantitative analysis"
+        ],
+        "answer": "Physics-based modeling and machine learning"
+      },
+      {
+        "question": "Which of the following effects on materials does Professor Tadmor study?",
+        "choices": [
+          "Corrosion, oxidation, and fatigue",
+          "Density, elasticity, and plasticity",
+          "Conductivity, magnetism, and luminescence",
+          "Heat, forces, and failure"
+        ],
+        "answer": "Heat, forces, and failure"
+      },
+      {
+        "question": "Does Professor Tadmor's research include the study of two-dimensional materials?",
+        "choices": [
+          "The summary does not specify the dimensionality of materials studied.",
+          "Yes, his research explicitly mentions two-dimensional materials.",
+          "No, he focuses exclusively on three-dimensional bulk materials.",
+          "Only indirectly, as part of larger composite structures."
+        ],
+        "answer": "Yes, his research explicitly mentions two-dimensional materials."
+      },
+      {
+        "question": "What small scale is connected to larger-scale mechanics in Professor Tadmor's work?",
+        "choices": [
+          "The microscopic scale",
+          "The nanoscale",
+          "The subatomic scale",
+          "The atomic scale"
+        ],
+        "answer": "The atomic scale"
+      },
+      {
+        "question": "Which of the following is one computational method Professor Tadmor uses?",
+        "choices": [
+          "Quantum chromodynamics",
+          "Molecular dynamics",
+          "Computational fluid dynamics",
+          "Linear regression analysis"
+        ],
+        "answer": "Molecular dynamics"
+      }
+    ],
+    "slug": "ellad-b-tadmor",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/ellad-b-tadmor"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/ellad-b-tadmor/photo.jpg"
+  },
+  {
+    "name": "Ellen K. Longmire",
+    "role": "Professor",
+    "email": "longmire@umn.edu",
+    "url": "https://cse.umn.edu/aem/ellen-k-longmire",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/2019-01/Longmireresized.jpg.webp?itok=vVFUomHu",
+    "category": "Faculty",
+    "research_summary": "Longmire uses advanced experiments to study turbulent flows, mixtures of liquids, and flows containing particles. Her projects examine swirling eddies, particle transport and the onset of turbulence, liquid contact effects, and measurements of hypersonic reentry flows.",
+    "quiz": [
+      {
+        "question": "Based on the description, what research methodology does Longmire primarily emphasize?",
+        "choices": [
+          "Numerical simulations",
+          "Experimental measurements",
+          "Theoretical modeling",
+          "Historical analysis"
+        ],
+        "answer": "Experimental measurements"
+      },
+      {
+        "question": "What swirling structures does Longmire identify in her study of turbulent flows?",
+        "choices": [
+          "Currents",
+          "Jets",
+          "Eddies",
+          "Streams"
+        ],
+        "answer": "Eddies"
+      },
+      {
+        "question": "What small objects can Longmire's studied flows transport?",
+        "choices": [
+          "Dust",
+          "Bubbles",
+          "Fibers",
+          "Particles"
+        ],
+        "answer": "Particles"
+      },
+      {
+        "question": "According to the summary, Longmire's research includes mixtures of how many liquids?",
+        "choices": [
+          "Two",
+          "Four or more",
+          "One",
+          "Three"
+        ],
+        "answer": "Two"
+      },
+      {
+        "question": "Which high-speed spaceflight event is mentioned in Longmire's research?",
+        "choices": [
+          "Orbital docking",
+          "Hypersonic reentry",
+          "Rocket launch",
+          "Asteroid impact"
+        ],
+        "answer": "Hypersonic reentry"
+      }
+    ],
+    "slug": "ellen-k-longmire",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/ellen-k-longmire"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/ellen-k-longmire/photo.jpg"
+  },
+  {
+    "name": "Everett Wenzel",
+    "role": "Research Associate Professor",
+    "email": "eawenzel@umn.edu",
+    "url": "https://cse.umn.edu/aem/everett-wenzel",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Everett_picture%20%282%29.JPG.webp?itok=hafALjmc",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Wenzel develops numerical methods and scientific software for flows involving multiple phases, such as sprays and smoke aerosols. He studies phase boundaries, their curvature, phase-change rates, and interactions between shock waves and droplets.",
+    "quiz": [
+      {
+        "question": "What type of flows is a primary focus of Professor Wenzel's research?",
+        "choices": [
+          "Hypersonic flows",
+          "Multiphase flows",
+          "Laminar flows",
+          "Inviscid flows"
+        ],
+        "answer": "Multiphase flows"
+      },
+      {
+        "question": "Which of the following is an example of a phenomenon Professor Wenzel studies?",
+        "choices": [
+          "Fluid-structure interaction",
+          "Combustion in engines",
+          "Smoke aerosols",
+          "Heat transfer in solids"
+        ],
+        "answer": "Smoke aerosols"
+      },
+      {
+        "question": "According to the summary, what separates different phases in a flow?",
+        "choices": [
+          "A vortex",
+          "A pressure gradient",
+          "A phase boundary",
+          "A flow regime"
+        ],
+        "answer": "A phase boundary"
+      },
+      {
+        "question": "What specific geometric property of phase boundaries does Professor Wenzel calculate?",
+        "choices": [
+          "Velocity",
+          "Curvature",
+          "Thickness",
+          "Area"
+        ],
+        "answer": "Curvature"
+      },
+      {
+        "question": "Does Professor Wenzel's research include the study of phase-change rates?",
+        "choices": [
+          "Only for single-phase systems.",
+          "Yes, he studies phase-change rates.",
+          "Only theoretically, not numerically.",
+          "No, he only studies boundaries."
+        ],
+        "answer": "Yes, he studies phase-change rates."
+      }
+    ],
+    "slug": "everett-wenzel",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/everett-wenzel"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/everett-wenzel/photo.jpg"
+  },
+  {
+    "name": "Gordon S. Beavers",
+    "role": "Professor Emeritus (Retired 2006)",
+    "email": null,
+    "url": "https://cse.umn.edu/aem/gordon-s-beavers",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Beavers%20Resized.jpg.webp?itok=KhE9IC6c",
+    "category": "Emeritus Faculty",
+    "research_summary": "Beavers' listed research areas are experimental fluid mechanics and rheological fluid mechanics. These concern measuring how fluids move and understanding how materials flow or deform when forces act on them.",
+    "quiz": [
+      {
+        "question": "Which of the following is one of Professor Beavers' listed research areas?",
+        "choices": [
+          "Historical linguistics",
+          "Experimental fluid mechanics",
+          "Cognitive psychology",
+          "Behavioral economics"
+        ],
+        "answer": "Experimental fluid mechanics"
+      },
+      {
+        "question": "Does experimental research typically involve taking measurements?",
+        "choices": [
+          "Only in theoretical simulations.",
+          "No, it relies solely on observation.",
+          "Yes, it often involves gathering data through measurements.",
+          "Rarely, preferring qualitative analysis."
+        ],
+        "answer": "Yes, it often involves gathering data through measurements."
+      },
+      {
+        "question": "What is the primary focus of fluid mechanics?",
+        "choices": [
+          "The structure of atomic nuclei.",
+          "How fluids move and respond to forces.",
+          "The chemical composition of gases.",
+          "The properties of static solids."
+        ],
+        "answer": "How fluids move and respond to forces."
+      },
+      {
+        "question": "What specific aspect of materials does rheology primarily concern?",
+        "choices": [
+          "Their solubility in different solvents.",
+          "How materials flow or deform.",
+          "Their electromagnetic properties.",
+          "Their optical refractive index."
+        ],
+        "answer": "How materials flow or deform."
+      },
+      {
+        "question": "Would observing a fluid's response to an applied force be relevant to Beavers' research topics?",
+        "choices": [
+          "Rarely, only under extreme conditions.",
+          "No, only solids are studied.",
+          "Yes, as it relates to fluid mechanics and rheology.",
+          "No, only theoretical models are considered."
+        ],
+        "answer": "Yes, as it relates to fluid mechanics and rheology."
+      }
+    ],
+    "slug": "gordon-s-beavers",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/gordon-s-beavers"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [
+      "The profile provides a short research description; the quiz includes basic explanations of those stated topics.",
+      "No individual email is listed in the current AEM directory or linked profile. Department contact: aem-department@umn.edu (not the individual’s address)."
+    ],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/gordon-s-beavers/photo.jpg"
+  },
+  {
+    "name": "Graham V. Candler",
+    "role": "Associate Department Head, Professor and McKnight Presidential Endowed Chair",
+    "email": "candler@umn.edu",
+    "url": "https://cse.umn.edu/aem/graham-v-candler",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Candlerresized.jpeg.webp?itok=Tygrevk9",
+    "category": "Faculty",
+    "research_summary": "Candler uses computer simulations to study extremely fast, hot gas flows and the chemical reactions within them. His work helps analyze spacecraft heat shields, the onset of turbulence, and air inlets for hypersonic aircraft.",
+    "quiz": [
+      {
+        "question": "What main tool does Professor Candler use to study gas flows?",
+        "choices": [
+          "Wind tunnels",
+          "Laboratory experiments",
+          "Computer simulations",
+          "Field observations"
+        ],
+        "answer": "Computer simulations"
+      },
+      {
+        "question": "What best characterizes the gas flows Professor Candler studies?",
+        "choices": [
+          "Very fast and hot",
+          "Slow and cold",
+          "Moderate speed and room temperature",
+          "Static and high pressure"
+        ],
+        "answer": "Very fast and hot"
+      },
+      {
+        "question": "Candler's work helps analyze which critical spacecraft component?",
+        "choices": [
+          "Navigation systems",
+          "Propulsion systems",
+          "Communication arrays",
+          "Heat shields"
+        ],
+        "answer": "Heat shields"
+      },
+      {
+        "question": "Which statement is true regarding chemical reactions in Professor Candler's gas flow research?",
+        "choices": [
+          "His work specifically excludes chemical reactions.",
+          "Chemical reactions are included in his studies.",
+          "He studies chemical reactions in liquids only.",
+          "His research on chemical reactions is limited to solids."
+        ],
+        "answer": "Chemical reactions are included in his studies."
+      },
+      {
+        "question": "Candler's research on air inlets is relevant to what type of aircraft?",
+        "choices": [
+          "Subsonic passenger jets",
+          "Supersonic fighter jets",
+          "Hypersonic aircraft",
+          "Light general aviation planes"
+        ],
+        "answer": "Hypersonic aircraft"
+      }
+    ],
+    "slug": "graham-v-candler",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/graham-v-candler"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/graham-v-candler/photo.jpg"
+  },
+  {
+    "name": "James A. Flaten",
+    "role": "Associate Director of the MN Space Grant Consortium and Contract Professor",
+    "email": "flate001@umn.edu",
+    "url": "https://cse.umn.edu/aem/james-flaten",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Flatenresized.jpg.webp?itok=Q43CL6KS",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Flaten leads hands-on NASA-related education and projects involving high-altitude balloons, miniature spacecraft, rocket payloads, and student rocketry. His academic background is experimental low-temperature physics, and his outreach connects physics with sound, art, and engaging demonstrations.",
+    "quiz": [
+      {
+        "question": "What lifts some of Flaten’s miniature spacecraft into the stratosphere?",
+        "choices": [
+          "Commercial airliners.",
+          "Deep-sea buoys.",
+          "Subway tunnels.",
+          "Weather balloons."
+        ],
+        "answer": "Weather balloons."
+      },
+      {
+        "question": "Which space agency is connected to his educational projects?",
+        "choices": [
+          "The US Postal Service.",
+          "The Federal Reserve.",
+          "NASA.",
+          "NOAA only."
+        ],
+        "answer": "NASA."
+      },
+      {
+        "question": "What do students develop for suborbital rocket flights?",
+        "choices": [
+          "Parking permits.",
+          "Science payloads.",
+          "Campus dining menus.",
+          "Sports playbooks."
+        ],
+        "answer": "Science payloads."
+      },
+      {
+        "question": "What is his formal academic research background?",
+        "choices": [
+          "Experimental low-temperature physics.",
+          "Medieval literature.",
+          "Corporate tax law.",
+          "Marine biology only."
+        ],
+        "answer": "Experimental low-temperature physics."
+      },
+      {
+        "question": "Name one topic he connects with physics in outreach.",
+        "choices": [
+          "Stock-market timing.",
+          "Restaurant ratings.",
+          "Highway toll collection.",
+          "Sound, art, or engaging demonstrations."
+        ],
+        "answer": "Sound, art, or engaging demonstrations."
+      }
+    ],
+    "slug": "james-a-flaten",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/james-flaten"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [
+      "Summary and quiz include educational projects and outreach described in the profile’s Research section."
+    ],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/james-a-flaten/photo.jpg"
+  },
+  {
+    "name": "James Scoggins",
+    "role": "Associate Professor",
+    "email": "jscoggin@umn.edu",
+    "url": "https://cse.umn.edu/aem/james-scoggins",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/JB%20Scoggins.png.webp?itok=5p0TktzH",
+    "category": "Faculty",
+    "research_summary": "Scoggins combines physics-based modeling and machine learning to predict extreme heating and gas-flow behavior during hypersonic flight. His work includes spacecraft and meteor entry, radiation, thermal-protection materials, and interpreting flight sensors under uncertainty.",
+    "quiz": [
+      {
+        "question": "Which data-based approach does Scoggins combine with physics models?",
+        "choices": [
+          "Machine learning.",
+          "Random coin flips.",
+          "Opinion polls of tourists.",
+          "Handwritten ledger counting."
+        ],
+        "answer": "Machine learning."
+      },
+      {
+        "question": "What temperature-related hazard does he study?",
+        "choices": [
+          "Home refrigerator settings.",
+          "Indoor office air-conditioning.",
+          "Extreme heating.",
+          "Seasonal garden frost only."
+        ],
+        "answer": "Extreme heating."
+      },
+      {
+        "question": "Name one object whose atmospheric entry he studies.",
+        "choices": [
+          "A spacecraft or a meteor.",
+          "A river canoe.",
+          "A city bus.",
+          "A bicycle wheel."
+        ],
+        "answer": "A spacecraft or a meteor."
+      },
+      {
+        "question": "What materials help protect entry vehicles from heat?",
+        "choices": [
+          "Cotton blankets.",
+          "Cardboard packaging.",
+          "Window screens.",
+          "Thermal-protection materials."
+        ],
+        "answer": "Thermal-protection materials."
+      },
+      {
+        "question": "Does his sensor work account for uncertainty?",
+        "choices": [
+          "Only for weather forecasts.",
+          "Only for classroom timers.",
+          "Yes, including uncertainty in flight sensors.",
+          "No, he ignores all sensor error."
+        ],
+        "answer": "Yes, including uncertainty in flight sensors."
+      }
+    ],
+    "slug": "james-scoggins",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/james-scoggins"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/james-scoggins/photo.jpg"
+  },
+  {
+    "name": "Joseph Mueller",
+    "role": "Industrial Professor of Design",
+    "email": "muel0053@umn.edu",
+    "url": "https://cse.umn.edu/aem/joseph-mueller",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Joseph%20Mueller.png.webp?itok=wocnUfKg",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Mueller studies control, navigation, estimation, and path planning for aerospace vehicles. His interests include satellite constellations, space-mission design, autonomous aircraft routing, and algorithms that help spacecraft approach and operate near one another.",
+    "quiz": [
+      {
+        "question": "Name one area Mueller studies.",
+        "choices": [
+          "Control, navigation, estimation, or path planning.",
+          "Municipal voting law.",
+          "Fashion photography.",
+          "Restaurant branding."
+        ],
+        "answer": "Control, navigation, estimation, or path planning."
+      },
+      {
+        "question": "What is a satellite constellation?",
+        "choices": [
+          "A single weather balloon.",
+          "A campus building cluster.",
+          "A coordinated group of satellites.",
+          "A constellation of stars used only for poetry."
+        ],
+        "answer": "A coordinated group of satellites."
+      },
+      {
+        "question": "Does his work include autonomous aircraft route planning?",
+        "choices": [
+          "Yes, including autonomous aircraft routing.",
+          "Only subway maps.",
+          "No, he studies only kitchen robots.",
+          "Only handwritten paper maps."
+        ],
+        "answer": "Yes, including autonomous aircraft routing."
+      },
+      {
+        "question": "What does spacecraft rendezvous involve?",
+        "choices": [
+          "Airplanes landing at the same airport gate.",
+          "Students meeting in a hallway.",
+          "Two ships exchanging mail.",
+          "Spacecraft approaching or meeting one another."
+        ],
+        "answer": "Spacecraft approaching or meeting one another."
+      },
+      {
+        "question": "Does he study algorithms used onboard spacecraft?",
+        "choices": [
+          "Yes, including onboard spacecraft algorithms.",
+          "Only spreadsheet fonts.",
+          "Only board-game rules.",
+          "No, only printed posters."
+        ],
+        "answer": "Yes, including onboard spacecraft algorithms."
+      }
+    ],
+    "slug": "joseph-mueller",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/joseph-mueller"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/joseph-mueller/photo.jpg"
+  },
+  {
+    "name": "Joseph W. Nichols",
+    "role": "Associate Professor",
+    "email": "jwn@umn.edu",
+    "url": "https://cse.umn.edu/aem/joseph-w-nichols",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/2019-01/Nicholsresized.jpg.webp?itok=fMhj3iTY",
+    "category": "Faculty",
+    "research_summary": "Nichols uses large computer simulations to study noise from high-speed jets and instability in hypersonic flows. He also develops scalable analysis tools to predict how flows over complex shapes become unstable and transition toward turbulence.",
+    "quiz": [
+      {
+        "question": "What kind of noise does Nichols study?",
+        "choices": [
+          "Classroom chalk squeaks.",
+          "Library whispering.",
+          "Noise from high-speed jets.",
+          "Phone notification pings."
+        ],
+        "answer": "Noise from high-speed jets."
+      },
+      {
+        "question": "What main research tool does he use?",
+        "choices": [
+          "Kitchen timers.",
+          "Opinion surveys.",
+          "Hand-drawn cartoons only.",
+          "Large computer simulations."
+        ],
+        "answer": "Large computer simulations."
+      },
+      {
+        "question": "Does his research include hypersonic flows?",
+        "choices": [
+          "Yes, including hypersonic-flow instability.",
+          "Only honey dripping.",
+          "Only indoor ceiling fans.",
+          "No, only still pond water."
+        ],
+        "answer": "Yes, including hypersonic-flow instability."
+      },
+      {
+        "question": "What change in flow behavior does he analyze?",
+        "choices": [
+          "How paint dries on a wall.",
+          "How traffic lights change color.",
+          "Instability and transition toward turbulence.",
+          "How ice cubes melt in soda."
+        ],
+        "answer": "Instability and transition toward turbulence."
+      },
+      {
+        "question": "Does he develop tools for flows over complex shapes?",
+        "choices": [
+          "Yes, including flows over complex shapes.",
+          "Only flat printed posters.",
+          "No, only perfectly empty space.",
+          "Only circular dinner plates."
+        ],
+        "answer": "Yes, including flows over complex shapes."
+      }
+    ],
+    "slug": "joseph-w-nichols",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/joseph-w-nichols"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/joseph-w-nichols/photo.jpg"
+  },
+  {
+    "name": "Kirsten Strandjord",
+    "role": "Lecturer/Assistant Professor",
+    "email": "stran626@umn.edu",
+    "url": "https://cse.umn.edu/aem/kirsten-strandjord",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/kirsten_2.jpg.webp?itok=LV_jPfga",
+    "category": "Faculty",
+    "research_summary": "Strandjord studies satellite navigation, including how to navigate in the region between Earth and the Moon. She investigates navigation signals beyond the usual navigation-satellite orbits and the use of existing Starlink and cellular LTE signals as additional navigation sources.",
+    "quiz": [
+      {
+        "question": "What is Strandjord’s main research area?",
+        "choices": [
+          "Hospital billing.",
+          "Orchestra conducting.",
+          "Satellite navigation.",
+          "Fashion design."
+        ],
+        "answer": "Satellite navigation."
+      },
+      {
+        "question": "Which two bodies define the region highlighted in her work?",
+        "choices": [
+          "Saturn and Neptune.",
+          "Earth and the Moon.",
+          "Mars and Jupiter.",
+          "Mercury and Venus."
+        ],
+        "answer": "Earth and the Moon."
+      },
+      {
+        "question": "Does she study signals beyond navigation satellites’ usual orbital altitude?",
+        "choices": [
+          "Yes, including signals beyond usual GNSS orbits.",
+          "No, only hallway Wi-Fi.",
+          "Only AM radio commercials.",
+          "Only wired Ethernet cables."
+        ],
+        "answer": "Yes, including signals beyond usual GNSS orbits."
+      },
+      {
+        "question": "Which communications-satellite network is mentioned?",
+        "choices": [
+          "A campus printer queue.",
+          "A local FM jazz station.",
+          "A supermarket PA system.",
+          "Starlink."
+        ],
+        "answer": "Starlink."
+      },
+      {
+        "question": "Which cellular signal technology is mentioned?",
+        "choices": [
+          "LTE.",
+          "Smoke signals.",
+          "Carrier pigeons.",
+          "Morse code only."
+        ],
+        "answer": "LTE."
+      }
+    ],
+    "slug": "kirsten-strandjord",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/kirsten-strandjord"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/kirsten-strandjord/photo.jpg"
+  },
+  {
+    "name": "Kshitiz Upadhyay",
+    "role": "Assistant Professor",
+    "email": "kshitizu@umn.edu",
+    "url": "https://cse.umn.edu/aem/kshitiz-upadhyay",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/LSU_CoE_Marketing_0201%20-%20Copy%20%282%29.jpg.webp?itok=K3xCieLB",
+    "category": "Faculty",
+    "research_summary": "Upadhyay studies how soft materials such as biological tissues and polymers deform, heat up, and suffer damage under demanding conditions. He combines advanced experiments and physics-informed machine learning for applications including brain injury, protective systems, and discovering new materials.",
+    "quiz": [
+      {
+        "question": "Name a soft material Upadhyay studies.",
+        "choices": [
+          "Biological tissue or a polymer.",
+          "Granite countertops.",
+          "Tempered window glass only.",
+          "Structural steel I-beams only."
+        ],
+        "answer": "Biological tissue or a polymer."
+      },
+      {
+        "question": "What can happen to these materials under demanding conditions?",
+        "choices": [
+          "They turn into radio waves.",
+          "They can deform, heat up, or suffer damage.",
+          "They automatically write software.",
+          "They become planets."
+        ],
+        "answer": "They can deform, heat up, or suffer damage."
+      },
+      {
+        "question": "Does he combine experiments with modeling?",
+        "choices": [
+          "Only historical biographies.",
+          "No, only handwritten poems.",
+          "Yes, experiments and physics-informed modeling.",
+          "Only restaurant reviews."
+        ],
+        "answer": "Yes, experiments and physics-informed modeling."
+      },
+      {
+        "question": "What type of injury is an application of his work?",
+        "choices": [
+          "Sunburn from desk lamps.",
+          "Splinters from pencils.",
+          "Paper cuts from envelopes.",
+          "Brain injury."
+        ],
+        "answer": "Brain injury."
+      },
+      {
+        "question": "What data-based method supports his models?",
+        "choices": [
+          "Physics-informed machine learning.",
+          "Crossword puzzle clues.",
+          "Lottery number picking.",
+          "Horoscope charts."
+        ],
+        "answer": "Physics-informed machine learning."
+      }
+    ],
+    "slug": "kshitiz-upadhyay",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/kshitiz-upadhyay"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/kshitiz-upadhyay/photo.jpg"
+  },
+  {
+    "name": "Maziar S. Hemati",
+    "role": "Associate Professor, Russell J. Penrose Faculty Fellow",
+    "email": "mhemati@umn.edu",
+    "url": "https://cse.umn.edu/aem/maziar-s-hemati",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Hematiresized.jpg.webp?itok=EAPgooIG",
+    "category": "Faculty",
+    "research_summary": "Hemati develops ways to model, understand, and control fluid flows using theory, computer simulations, and experiments. Applications include reducing drag by delaying turbulence, combining sensor measurements, controlling flow separation, and improving hypersonic flight systems.",
+    "quiz": [
+      {
+        "question": "What does Hemati try to model and control?",
+        "choices": [
+          "Election ballots.",
+          "Fluid flows.",
+          "Concert ticket sales.",
+          "Grocery inventory."
+        ],
+        "answer": "Fluid flows."
+      },
+      {
+        "question": "Name one research approach he uses.",
+        "choices": [
+          "Guessing from headlines.",
+          "Tarot card readings.",
+          "Theory, computer simulations, or experiments.",
+          "Sorting mail by color."
+        ],
+        "answer": "Theory, computer simulations, or experiments."
+      },
+      {
+        "question": "What resistance can delaying turbulence help reduce?",
+        "choices": [
+          "Password resets.",
+          "Library late fees.",
+          "Tuition bills.",
+          "Drag."
+        ],
+        "answer": "Drag."
+      },
+      {
+        "question": "Does he combine sensor measurements?",
+        "choices": [
+          "Yes, including combined sensor measurements.",
+          "Only handwritten guesses.",
+          "Only sundials.",
+          "No, he refuses all sensors."
+        ],
+        "answer": "Yes, including combined sensor measurements."
+      },
+      {
+        "question": "Does his research include hypersonic flight?",
+        "choices": [
+          "No, only walking pace.",
+          "Yes, including hypersonic flight systems.",
+          "Only bicycle bells.",
+          "Only elevator rides."
+        ],
+        "answer": "Yes, including hypersonic flight systems."
+      }
+    ],
+    "slug": "maziar-s-hemati",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/maziar-s-hemati"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/maziar-s-hemati/photo.jpg"
+  },
+  {
+    "name": "Melissa Green",
+    "role": "Associate Professor",
+    "email": "magreen@umn.edu",
+    "url": "https://cse.umn.edu/aem/melissa-green",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Green_Melissa.jpeg.webp?itok=DJIpKit_",
+    "category": "Faculty",
+    "research_summary": "Green studies how moving air and water interact with surfaces such as flapping wings and oscillating fins. She investigates and visualizes vortices and other organized flow patterns to understand forces and help predict or control fluid motion.",
+    "quiz": [
+      {
+        "question": "Which two fluids are mentioned in Green’s research?",
+        "choices": [
+          "Air and water.",
+          "Liquid metal and lava only.",
+          "Honey and tar only.",
+          "Helium balloons and syrup only."
+        ],
+        "answer": "Air and water."
+      },
+      {
+        "question": "Name a moving surface she studies.",
+        "choices": [
+          "A locked filing cabinet.",
+          "A classroom whiteboard.",
+          "A parked bicycle rack.",
+          "A flapping wing or an oscillating fin."
+        ],
+        "answer": "A flapping wing or an oscillating fin."
+      },
+      {
+        "question": "What swirling flow features does she investigate?",
+        "choices": [
+          "Staircase railings.",
+          "Telephone cords.",
+          "Vortices.",
+          "Parking spirals."
+        ],
+        "answer": "Vortices."
+      },
+      {
+        "question": "Why study these flow features?",
+        "choices": [
+          "To schedule final exams.",
+          "To understand or predict forces and fluid motion.",
+          "To design concert lighting.",
+          "To rank restaurants."
+        ],
+        "answer": "To understand or predict forces and fluid motion."
+      },
+      {
+        "question": "Does her work include visualizing flows?",
+        "choices": [
+          "Yes, including flow visualization.",
+          "No, only written descriptions.",
+          "Only still photographs of buildings.",
+          "Only spreadsheet charts of budgets."
+        ],
+        "answer": "Yes, including flow visualization."
+      }
+    ],
+    "slug": "melissa-green",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/melissa-green"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/melissa-green/photo.jpg"
+  },
+  {
+    "name": "Michael Kroells",
+    "role": "Research Assistant Professor",
+    "email": "kroel012@umn.edu",
+    "url": "https://cse.umn.edu/aem/michael-kroells",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/themes/custom/cse/img/person_placeholder.png",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Kroells' listed research uses computer models to study high-speed gas flows and how particles affect atmospheric-entry conditions. His publications include dust-related surface erosion during Mars entry, particle effects on turbulence transition, and comparisons of particle and continuum flow models.",
+    "quiz": [
+      {
+        "question": "What broad type of flow does Kroells study?",
+        "choices": [
+          "Indoor ceiling-fan breeze only.",
+          "Still swimming-pool water.",
+          "High-speed gas flow.",
+          "Slow honey pouring."
+        ],
+        "answer": "High-speed gas flow."
+      },
+      {
+        "question": "Which planet appears in his dust-erosion research?",
+        "choices": [
+          "Earth’s moon only.",
+          "Mars.",
+          "Neptune.",
+          "Mercury."
+        ],
+        "answer": "Mars."
+      },
+      {
+        "question": "What can dust do to an entry vehicle’s surface?",
+        "choices": [
+          "Erode it.",
+          "Paint it blue.",
+          "Cool it into ice.",
+          "Turn it into fabric."
+        ],
+        "answer": "Erode it."
+      },
+      {
+        "question": "What change in flow can particles influence?",
+        "choices": [
+          "The color of street signs.",
+          "The tempo of a song.",
+          "The price of coffee.",
+          "Transition toward turbulence."
+        ],
+        "answer": "Transition toward turbulence."
+      },
+      {
+        "question": "What two types of flow models does he compare?",
+        "choices": [
+          "Particle and continuum models.",
+          "Cookbook and travel-guide models.",
+          "Map and calendar models.",
+          "Spreadsheet and slideshow models."
+        ],
+        "answer": "Particle and continuum models."
+      }
+    ],
+    "slug": "michael-kroells",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/michael-kroells"
+      },
+      {
+        "label": "Supplementary research source",
+        "url": "https://experts.umn.edu/en/persons/michael-d-kroells/"
+      }
+    ],
+    "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+    "notes": [],
+    "photo_status": "site_default_placeholder",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/michael-kroells/photo.jpg"
+  },
+  {
+    "name": "Perry H. Leo",
+    "role": "Professor",
+    "email": "phleo@umn.edu",
+    "url": "https://cse.umn.edu/aem/perry-h-leo",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Leoresized.jpg.webp?itok=muyAt8tF",
+    "category": "Faculty",
+    "research_summary": "Leo studies how internal patterns and phase changes affect the properties of complex solids. His theoretical and numerical work links microstructure to strength, fracture and fatigue resistance, and electrical or magnetic behavior in materials such as composites, alloys, biological materials, and liquid crystals.",
+    "quiz": [
+      {
+        "question": "What internal feature does Leo link to material properties?",
+        "choices": [
+          "Microstructure or internal patterns.",
+          "The color of the lab door.",
+          "The length of the email signature.",
+          "The building’s street address."
+        ],
+        "answer": "Microstructure or internal patterns."
+      },
+      {
+        "question": "Does he study phase changes?",
+        "choices": [
+          "No, only unchanging statues.",
+          "Yes, including phase changes in solids.",
+          "Only software version numbers.",
+          "Only seasonal clothing changes."
+        ],
+        "answer": "Yes, including phase changes in solids."
+      },
+      {
+        "question": "Name one mechanical property he studies.",
+        "choices": [
+          "Wi-Fi password strength.",
+          "Font size.",
+          "Strength, fracture resistance, or fatigue resistance.",
+          "Coffee bitterness."
+        ],
+        "answer": "Strength, fracture resistance, or fatigue resistance."
+      },
+      {
+        "question": "Does his work also consider electrical or magnetic behavior?",
+        "choices": [
+          "Only cafeteria menus.",
+          "Only bus schedules.",
+          "No, only paint colors.",
+          "Yes, including electrical or magnetic behavior."
+        ],
+        "answer": "Yes, including electrical or magnetic behavior."
+      },
+      {
+        "question": "Name one material type he studies.",
+        "choices": [
+          "Composites, alloys, biological materials, or liquid crystals.",
+          "Printer paper only.",
+          "Cotton T-shirts only.",
+          "Cardboard boxes only."
+        ],
+        "answer": "Composites, alloys, biological materials, or liquid crystals."
+      }
+    ],
+    "slug": "perry-h-leo",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/perry-h-leo"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/perry-h-leo/photo.jpg"
+  },
+  {
+    "name": "Pramod Subbareddy",
+    "role": "Research Professor",
+    "email": "pramod@umn.edu",
+    "url": "https://cse.umn.edu/aem/pramod-subbareddy-0",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Pramod%20Headshot.png.webp?itok=qSlJYmrs",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Subbareddy's listed research develops computational methods for hypersonic and chemically reacting flows. His publications include flow-solver development, numerical accuracy, high-speed flow analysis, and methods for simulating flows containing multiple phases.",
+    "quiz": [
+      {
+        "question": "What high-speed flow regime appears in Subbareddy’s research?",
+        "choices": [
+          "Indoor humidifier mist.",
+          "Hypersonic flow.",
+          "Walking-speed airflow.",
+          "Slow molasses flow."
+        ],
+        "answer": "Hypersonic flow."
+      },
+      {
+        "question": "Can the gases he models undergo chemical reactions?",
+        "choices": [
+          "Yes, including chemically reacting flows.",
+          "No, they stay chemically frozen.",
+          "Only if they are painted first.",
+          "Only in cooking recipes."
+        ],
+        "answer": "Yes, including chemically reacting flows."
+      },
+      {
+        "question": "What software tool does he help develop?",
+        "choices": [
+          "A restaurant reservation app.",
+          "A photo filter pack.",
+          "A calendar reminder.",
+          "A flow solver."
+        ],
+        "answer": "A flow solver."
+      },
+      {
+        "question": "What quality of numerical results does his work examine?",
+        "choices": [
+          "Speaker volume.",
+          "Wallpaper patterns.",
+          "Accuracy.",
+          "Font kerning."
+        ],
+        "answer": "Accuracy."
+      },
+      {
+        "question": "Does multiphase flow involve one phase only or more than one?",
+        "choices": [
+          "Only solid ice cubes.",
+          "More than one phase.",
+          "Exactly one phase always.",
+          "No phases at all."
+        ],
+        "answer": "More than one phase."
+      }
+    ],
+    "slug": "pramod-subbareddy",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/pramod-subbareddy-0"
+      },
+      {
+        "label": "Supplementary research source",
+        "url": "https://experts.umn.edu/en/persons/pramod-k-subbareddy"
+      }
+    ],
+    "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/pramod-subbareddy/photo.jpg"
+  },
+  {
+    "name": "Richard D. James",
+    "role": "Distinguished McKnight University Professor",
+    "email": "james@umn.edu",
+    "url": "https://cse.umn.edu/aem/richard-d-james",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Jamesresized_1.jpeg.webp?itok=s1J5DgZb",
+    "category": "Faculty",
+    "research_summary": "James studies changes in material structure, especially shape-memory materials, using mathematics at atomic and larger scales. His wider interests include origami-inspired structures, wind-turbine design, superconductivity, and superfluidity, with symmetry helping simplify complex problems.",
+    "quiz": [
+      {
+        "question": "What special type of material is a major focus of James’s work?",
+        "choices": [
+          "Ordinary window glass only.",
+          "Printer ink only.",
+          "Shape-memory materials.",
+          "Wet concrete only."
+        ],
+        "answer": "Shape-memory materials."
+      },
+      {
+        "question": "Does he study materials at atomic scales?",
+        "choices": [
+          "Only continent-sized maps.",
+          "No, only city-block scales.",
+          "Yes, including atomic-scale mathematics.",
+          "Only solar-system orbits."
+        ],
+        "answer": "Yes, including atomic-scale mathematics."
+      },
+      {
+        "question": "What paper-folding idea inspires some of his structures?",
+        "choices": [
+          "Calligraphy.",
+          "Bookbinding.",
+          "Knitting.",
+          "Origami."
+        ],
+        "answer": "Origami."
+      },
+      {
+        "question": "What energy device appears among his research interests?",
+        "choices": [
+          "A wind turbine.",
+          "A flashlight.",
+          "A bicycle bell.",
+          "A toaster oven."
+        ],
+        "answer": "A wind turbine."
+      },
+      {
+        "question": "What mathematical idea helps him simplify problems?",
+        "choices": [
+          "Random guessing.",
+          "Color matching.",
+          "Symmetry.",
+          "Alphabetical order."
+        ],
+        "answer": "Symmetry."
+      }
+    ],
+    "slug": "richard-d-james",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/richard-d-james"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/richard-d-james/photo.jpg"
+  },
+  {
+    "name": "Roger L. Fosdick",
+    "role": "Professor Emeritus (Retired 2013)",
+    "email": null,
+    "url": "https://cse.umn.edu/aem/roger-l-fosdick",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Fosdick%20Edit%20for%20Site.png.webp?itok=hCOddcRR",
+    "category": "Emeritus Faculty",
+    "research_summary": "Fosdick studies thermodynamics, continuum mechanics, and nonlinear material behavior using applied mathematics. His work addresses both practical problems and the foundational theories describing energy, forces, and deformation in materials.",
+    "quiz": [
+      {
+        "question": "What field in Fosdick’s work concerns heat and energy?",
+        "choices": [
+          "Thermodynamics.",
+          "Fashion history.",
+          "Sports commentary.",
+          "Music theory."
+        ],
+        "answer": "Thermodynamics."
+      },
+      {
+        "question": "What mechanics framework is listed in his research?",
+        "choices": [
+          "Board-game mechanics.",
+          "Continuum mechanics.",
+          "Stage-lighting cues.",
+          "Auto-repair checklists."
+        ],
+        "answer": "Continuum mechanics."
+      },
+      {
+        "question": "Does he study nonlinear material behavior?",
+        "choices": [
+          "Only linear algebra homework.",
+          "No, only perfectly linear springs in cartoons.",
+          "Yes, including nonlinear material behavior.",
+          "Only straight hallway walking."
+        ],
+        "answer": "Yes, including nonlinear material behavior."
+      },
+      {
+        "question": "What tool does he use to analyze these problems?",
+        "choices": [
+          "Opinion polling.",
+          "Stopwatch races.",
+          "Watercolor painting.",
+          "Applied mathematics."
+        ],
+        "answer": "Applied mathematics."
+      },
+      {
+        "question": "Does his research address practical applications, foundations, or both?",
+        "choices": [
+          "Both practical problems and foundational theory.",
+          "Neither; it is only a course title.",
+          "Only sports scores.",
+          "Only cafeteria planning."
+        ],
+        "answer": "Both practical problems and foundational theory."
+      }
+    ],
+    "slug": "roger-l-fosdick",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/roger-l-fosdick"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [
+      "The profile provides a short research description; the quiz includes basic explanations of those stated topics.",
+      "No individual email is listed in the current AEM directory or linked profile. Department contact: aem-department@umn.edu (not the individual’s address)."
+    ],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/roger-l-fosdick/photo.jpg"
+  },
+  {
+    "name": "Ryan Caverly",
+    "role": "Associate Professor, Distinguished University Teaching Professor",
+    "email": "rcaverly@umn.edu",
+    "url": "https://cse.umn.edu/aem/ryan-caverly",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Caverly%20Headshot%20Website.png.webp?itok=MBc1fcQK",
+    "category": "Faculty",
+    "research_summary": "Caverly develops mathematical models and control methods for aircraft, spacecraft, and robots. He especially studies flexible structures and how to control their motion accurately, efficiently, and reliably.",
+    "quiz": [
+      {
+        "question": "Name one type of system Caverly studies.",
+        "choices": [
+          "Kitchen blenders only.",
+          "Aircraft, spacecraft, or robots.",
+          "Garden hoses only.",
+          "Library card catalogs."
+        ],
+        "answer": "Aircraft, spacecraft, or robots."
+      },
+      {
+        "question": "Does he study flexible structures?",
+        "choices": [
+          "Yes, especially flexible structures.",
+          "No, only perfectly rigid bricks.",
+          "Only inflatable pool toys.",
+          "Only stone monuments."
+        ],
+        "answer": "Yes, especially flexible structures."
+      },
+      {
+        "question": "What do his mathematical models describe?",
+        "choices": [
+          "The price of textbooks.",
+          "The seating chart of a classroom.",
+          "The color of lab coats.",
+          "The motion or dynamics of systems."
+        ],
+        "answer": "The motion or dynamics of systems."
+      },
+      {
+        "question": "What do control methods help manage?",
+        "choices": [
+          "A system’s motion or behavior.",
+          "Email fonts.",
+          "Poster board inventory.",
+          "Cafeteria wait times."
+        ],
+        "answer": "A system’s motion or behavior."
+      },
+      {
+        "question": "Does he seek computationally efficient models?",
+        "choices": [
+          "No, slower is always better.",
+          "Yes, including efficient and reliable models.",
+          "Only handwritten sketches.",
+          "Only models that cannot run on a computer."
+        ],
+        "answer": "Yes, including efficient and reliable models."
+      }
+    ],
+    "slug": "ryan-caverly",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/ryan-caverly"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/ryan-caverly/photo.jpg"
+  },
+  {
+    "name": "Ryan S. Elliott",
+    "role": "Professor & Director of Graduate Studies",
+    "email": "relliott@umn.edu",
+    "url": "https://cse.umn.edu/aem/ryan-s-elliott",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Elliotresized.jpg.webp?itok=0gIwhFKL",
+    "category": "Faculty",
+    "research_summary": "Elliott studies why structures and materials become unstable, including buckling, aircraft-wing flutter, and structural collapse. He develops nonlinear mathematical models, computational methods, and open-source software to predict instability and discover different stable configurations.",
+    "quiz": [
+      {
+        "question": "What is Elliott’s main research theme?",
+        "choices": [
+          "Concert ticket design.",
+          "Dining-hall menus.",
+          "Stability and instability of structures and materials.",
+          "Campus landscaping."
+        ],
+        "answer": "Stability and instability of structures and materials."
+      },
+      {
+        "question": "Name one instability he studies.",
+        "choices": [
+          "A stack of papers sliding off a desk.",
+          "Buckling, wing flutter, or structural collapse.",
+          "Wi-Fi password expiry.",
+          "A wobbly cafeteria table only."
+        ],
+        "answer": "Buckling, wing flutter, or structural collapse."
+      },
+      {
+        "question": "Does he develop mathematical models?",
+        "choices": [
+          "Yes, including nonlinear mathematical models.",
+          "Only watercolor sketches.",
+          "No, only photographs.",
+          "Only verbal anecdotes."
+        ],
+        "answer": "Yes, including nonlinear mathematical models."
+      },
+      {
+        "question": "What can his methods discover besides instability?",
+        "choices": [
+          "New cafeteria recipes.",
+          "Lost umbrella locations.",
+          "Unused classroom numbers.",
+          "Different stable configurations or states."
+        ],
+        "answer": "Different stable configurations or states."
+      },
+      {
+        "question": "What kind of scientific software does he help develop?",
+        "choices": [
+          "Smartphone filters only.",
+          "Closed photo albums only.",
+          "Open-source software.",
+          "Paid video games only."
+        ],
+        "answer": "Open-source software."
+      }
+    ],
+    "slug": "ryan-s-elliott",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/ryan-s-elliott"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/ryan-s-elliott/photo.jpg"
+  },
+  {
+    "name": "Suraj Ravindran",
+    "role": "Assistant Professor",
+    "email": "sravi@umn.edu",
+    "url": "https://cse.umn.edu/aem/suraj-ravindran",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Suraj%20Ravindran%20Headshot%20Website.png.webp?itok=A1Nt5u5Z",
+    "category": "Faculty",
+    "research_summary": "Ravindran studies how materials behave under extreme pressures, temperatures, and rapid deformation, as encountered in high-speed flight and protective systems. He combines impact experiments, fast imaging, and computational tools to examine materials such as ceramics, glass, alloys, composites, and polymers across many scales.",
+    "quiz": [
+      {
+        "question": "What kinds of conditions does Ravindran study?",
+        "choices": [
+          "Mild room-temperature sitting.",
+          "Slow icing of a cake.",
+          "Gentle breeze on a porch.",
+          "Extreme pressure, temperature, and rapid deformation."
+        ],
+        "answer": "Extreme pressure, temperature, and rapid deformation."
+      },
+      {
+        "question": "Name one application of this research.",
+        "choices": [
+          "Picnic blanket folding.",
+          "Office chair cushions only.",
+          "High-speed flight or protective systems.",
+          "Bookstore window displays."
+        ],
+        "answer": "High-speed flight or protective systems."
+      },
+      {
+        "question": "What type of experiment does he use?",
+        "choices": [
+          "Color-matching quizzes.",
+          "Impact experiments.",
+          "Taste tests.",
+          "Opinion surveys."
+        ],
+        "answer": "Impact experiments."
+      },
+      {
+        "question": "Why use very fast imaging?",
+        "choices": [
+          "To observe events that happen very quickly.",
+          "To film graduation speeches.",
+          "To photograph still portraits only.",
+          "To record campus tours."
+        ],
+        "answer": "To observe events that happen very quickly."
+      },
+      {
+        "question": "Name one material he studies.",
+        "choices": [
+          "Notebook paper only.",
+          "Cotton socks only.",
+          "Cardboard tubes only.",
+          "Ceramics, glass, alloys, composites, or polymers."
+        ],
+        "answer": "Ceramics, glass, alloys, composites, or polymers."
+      }
+    ],
+    "slug": "suraj-ravindran",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/suraj-ravindran"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/suraj-ravindran/photo.jpg"
+  },
+  {
+    "name": "Terrence R. Meyer",
+    "role": "Professor & Department Head",
+    "email": "trmeyer@umn.edu",
+    "url": "https://cse.umn.edu/aem/terrence-r-meyer",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Terry%20Meyer%20Headshot.png.webp?itok=Vq32OOfn",
+    "category": "Faculty",
+    "research_summary": "Meyer develops advanced measurement tools to understand fast, hot, reacting flows for propulsion, power, and energy systems. He studies complex flows containing droplets or particles and works toward devices with better efficiency, lower emissions, and practical designs.",
+    "quiz": [
+      {
+        "question": "What tools does Meyer develop to study flows?",
+        "choices": [
+          "Advanced measurement or diagnostic tools.",
+          "Kitchen measuring cups.",
+          "Bathroom scales.",
+          "Yardsticks for posters."
+        ],
+        "answer": "Advanced measurement or diagnostic tools."
+      },
+      {
+        "question": "Name one application area.",
+        "choices": [
+          "Concert lighting.",
+          "Retail clothing.",
+          "Campus landscaping.",
+          "Propulsion, power, or energy systems."
+        ],
+        "answer": "Propulsion, power, or energy systems."
+      },
+      {
+        "question": "Can the flows he studies contain droplets or particles?",
+        "choices": [
+          "Yes, including droplets or particles.",
+          "Only solid wooden blocks.",
+          "Only still photographs.",
+          "No, only perfectly empty vacuum."
+        ],
+        "answer": "Yes, including droplets or particles."
+      },
+      {
+        "question": "What does he want to improve about energy use?",
+        "choices": [
+          "Poster brightness.",
+          "Efficiency.",
+          "Chair cushion thickness.",
+          "Font size."
+        ],
+        "answer": "Efficiency."
+      },
+      {
+        "question": "What environmental output does he aim to reduce?",
+        "choices": [
+          "Sidewalk chalk dust.",
+          "Library whispers.",
+          "Emissions.",
+          "Printer paper jams."
+        ],
+        "answer": "Emissions."
+      }
+    ],
+    "slug": "terrence-r-meyer",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/terrence-r-meyer"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/terrence-r-meyer/photo.jpg"
+  },
+  {
+    "name": "Thomas W. Shield",
+    "role": "Professor Emeritus",
+    "email": "shield@umn.edu",
+    "url": "https://cse.umn.edu/aem/thomas-w-shield",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/shieldresized.jpg.webp?itok=sSwQUSlJ",
+    "category": "Emeritus Faculty",
+    "research_summary": "Shield studies how small-scale structures inside materials affect their overall behavior and how they crack. He combines experiments and models of shape-memory and magnetically responsive materials to support better actuators, sensors, and related devices.",
+    "quiz": [
+      {
+        "question": "What internal features does Shield study?",
+        "choices": [
+          "Microstructures or small-scale material structures.",
+          "Email subject lines.",
+          "Street-sign fonts.",
+          "Campus building names."
+        ],
+        "answer": "Microstructures or small-scale material structures."
+      },
+      {
+        "question": "What type of damage is central to his research?",
+        "choices": [
+          "Torn notebook paper.",
+          "A chipped coffee mug only.",
+          "Cracking or fracture.",
+          "A scratched phone screen only."
+        ],
+        "answer": "Cracking or fracture."
+      },
+      {
+        "question": "Name one special material type he studies.",
+        "choices": [
+          "Shape-memory or magnetically responsive materials.",
+          "Wet sand only.",
+          "Ordinary copier paper.",
+          "Cotton balls only."
+        ],
+        "answer": "Shape-memory or magnetically responsive materials."
+      },
+      {
+        "question": "Does he use experiments, models, or both?",
+        "choices": [
+          "Only hallway conversations.",
+          "Neither; only course titles.",
+          "Only yearbook photos.",
+          "Both experiments and models."
+        ],
+        "answer": "Both experiments and models."
+      },
+      {
+        "question": "Name one device his research can help improve.",
+        "choices": [
+          "A bicycle bell.",
+          "A clipboard.",
+          "An actuator or a sensor.",
+          "A stapler."
+        ],
+        "answer": "An actuator or a sensor."
+      }
+    ],
+    "slug": "thomas-w-shield",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/thomas-w-shield"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/thomas-w-shield/photo.jpg"
+  },
+  {
+    "name": "Todd Helsa",
+    "role": "Contract Assistant Professor",
+    "email": "hesla@umn.edu",
+    "url": "https://cse.umn.edu/aem/todd-helsa",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Heslaresized.jpg.webp?itok=4QeYT2wK",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Hesla studies how fluids interact with particles and solid bodies using theory and computer calculations. He also works on finite-element methods, which divide a problem into smaller pieces for numerical analysis.",
+    "quiz": [
+      {
+        "question": "What does Hesla study interacting with fluids?",
+        "choices": [
+          "Sheet music and lyrics.",
+          "Postage stamps and envelopes.",
+          "Menu items and prices.",
+          "Particles and solid bodies."
+        ],
+        "answer": "Particles and solid bodies."
+      },
+      {
+        "question": "Does his research use theory?",
+        "choices": [
+          "Yes, including theoretical analysis.",
+          "Only cafeteria rumors.",
+          "Only sports commentary.",
+          "No, only guesswork."
+        ],
+        "answer": "Yes, including theoretical analysis."
+      },
+      {
+        "question": "Does his research use computer calculations?",
+        "choices": [
+          "No, only mental arithmetic for tips.",
+          "Yes, including computer calculations.",
+          "Only chalkboard doodles.",
+          "Only paper airplanes."
+        ],
+        "answer": "Yes, including computer calculations."
+      },
+      {
+        "question": "What numerical method is named in his interests?",
+        "choices": [
+          "The alphabet method.",
+          "The coin-flip method.",
+          "The finite-element method.",
+          "The seating-chart method."
+        ],
+        "answer": "The finite-element method."
+      },
+      {
+        "question": "What does that method divide a problem into?",
+        "choices": [
+          "Unrelated photographs.",
+          "Campus zip codes.",
+          "Random paragraphs.",
+          "Smaller pieces or elements."
+        ],
+        "answer": "Smaller pieces or elements."
+      }
+    ],
+    "slug": "todd-helsa",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/todd-helsa"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [
+      "The directory spells the name “Todd Helsa”; the linked profile and research text use “Todd Hesla.” The folder preserves the directory spelling."
+    ],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/todd-helsa/photo.jpg"
+  },
+  {
+    "name": "Tom Schwartzentruber",
+    "role": "Professor, Distinguished McKnight University Professor",
+    "email": "schwart@umn.edu",
+    "url": "https://cse.umn.edu/aem/tom-schwartzentruber",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Schwartzresized.jpg.webp?itok=4AFJVRdy",
+    "category": "Faculty",
+    "research_summary": "Schwartzentruber uses particle-based computer simulations to study gases that are chemically reacting or out of equilibrium. His work combines molecular and larger-scale models for applications including high-altitude hypersonic flight, rocket plumes, gas-surface interactions, and tiny devices.",
+    "quiz": [
+      {
+        "question": "What do his simulations track to represent gases?",
+        "choices": [
+          "Library due dates.",
+          "Parking spaces.",
+          "Particles or molecules.",
+          "Concert seats."
+        ],
+        "answer": "Particles or molecules."
+      },
+      {
+        "question": "Can the gases in his research undergo chemical reactions?",
+        "choices": [
+          "Only if they are frozen first.",
+          "Only in cooking recipes.",
+          "No, they never change chemically.",
+          "Yes, including chemically reacting gases."
+        ],
+        "answer": "Yes, including chemically reacting gases."
+      },
+      {
+        "question": "Name one aerospace application.",
+        "choices": [
+          "High-altitude hypersonic flight or rocket plumes.",
+          "Campus shuttle maps.",
+          "Grocery delivery.",
+          "City bus routes."
+        ],
+        "answer": "High-altitude hypersonic flight or rocket plumes."
+      },
+      {
+        "question": "Does he study how gases interact with surfaces?",
+        "choices": [
+          "No, only empty space far from surfaces.",
+          "Only classroom whiteboards.",
+          "Yes, including gas-surface interactions.",
+          "Only painted murals."
+        ],
+        "answer": "Yes, including gas-surface interactions."
+      },
+      {
+        "question": "Does he combine models at different scales?",
+        "choices": [
+          "Yes, including molecular and larger-scale models.",
+          "Only campus-map scales.",
+          "No, only one scale always.",
+          "Only poster-print scales."
+        ],
+        "answer": "Yes, including molecular and larger-scale models."
+      }
+    ],
+    "slug": "tom-schwartzentruber",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/tom-schwartzentruber"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/tom-schwartzentruber/photo.jpg"
+  },
+  {
+    "name": "Travis W. Drayna",
+    "role": "Research Professor",
+    "email": "tdrayna@umn.edu",
+    "url": "https://cse.umn.edu/aem/travis-w-drayna",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Travis%20Drayna%20Headshot%20Website.png.webp?itok=xo8CoGAF",
+    "category": "Teaching & Research Faculty",
+    "research_summary": "Drayna's listed publications concern computational methods for hypersonic flows, including flow solvers and refining the meshes used in simulations. His work also examines simulation accuracy and the use of fluid-dynamics models in guidance and control of hypersonic vehicles.",
+    "quiz": [
+      {
+        "question": "What kind of flow is central to Drayna’s listed work?",
+        "choices": [
+          "Slow river drifting.",
+          "Indoor fan breeze.",
+          "Honey pouring.",
+          "Hypersonic flow."
+        ],
+        "answer": "Hypersonic flow."
+      },
+      {
+        "question": "Does this work use computer simulations?",
+        "choices": [
+          "Yes, including computational flow solvers.",
+          "Only verbal descriptions.",
+          "Only still photographs.",
+          "No, only paper sketches."
+        ],
+        "answer": "Yes, including computational flow solvers."
+      },
+      {
+        "question": "What computational structure does mesh refinement improve?",
+        "choices": [
+          "A fishing net.",
+          "The grid or mesh used to represent a flow.",
+          "A soccer goal.",
+          "A grocery bag."
+        ],
+        "answer": "The grid or mesh used to represent a flow."
+      },
+      {
+        "question": "What quality of predictions does his work examine?",
+        "choices": [
+          "Font weight.",
+          "Loudness.",
+          "Accuracy.",
+          "Poster gloss."
+        ],
+        "answer": "Accuracy."
+      },
+      {
+        "question": "Which vehicle functions can these flow models support?",
+        "choices": [
+          "Ticket printing.",
+          "Campus tour guiding.",
+          "Cafeteria seating.",
+          "Guidance and control."
+        ],
+        "answer": "Guidance and control."
+      }
+    ],
+    "slug": "travis-w-drayna",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/travis-w-drayna"
+      },
+      {
+        "label": "Supplementary research source",
+        "url": "https://experts.umn.edu/en/persons/travis-w-drayna/"
+      }
+    ],
+    "research_basis": "Summary inferred from listed research publications; not a statement of the entire current research program.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/travis-w-drayna/photo.jpg"
+  },
+  {
+    "name": "William L. Garrard",
+    "role": "Professor Emeritus (Retired 2017)",
+    "email": "wgarrard@umn.edu",
+    "url": "https://cse.umn.edu/aem/william-l-garrard",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Garrard-min.jpg.webp?itok=BLds19Ai",
+    "category": "Emeritus Faculty",
+    "research_summary": "Garrard's listed research focuses on flight mechanics and control of aerospace vehicles. In simple terms, these fields study vehicle motion in flight and how to guide or regulate that motion.",
+    "quiz": [
+      {
+        "question": "What is one of Garrard’s listed research areas?",
+        "choices": [
+          "Flight mechanics or control.",
+          "Fashion illustration.",
+          "Poetry recitation.",
+          "Restaurant reviewing."
+        ],
+        "answer": "Flight mechanics or control."
+      },
+      {
+        "question": "What type of vehicles does he study?",
+        "choices": [
+          "City buses only.",
+          "Rowboats only.",
+          "Grocery carts.",
+          "Aerospace vehicles."
+        ],
+        "answer": "Aerospace vehicles."
+      },
+      {
+        "question": "What does flight mechanics help explain?",
+        "choices": [
+          "How vehicles move in flight.",
+          "How emails are filed.",
+          "How bread is sliced.",
+          "How books are shelved."
+        ],
+        "answer": "How vehicles move in flight."
+      },
+      {
+        "question": "What do control methods help regulate?",
+        "choices": [
+          "Classroom thermostats only.",
+          "Poster alignment only.",
+          "Vehicle motion or behavior.",
+          "Playlist volume only."
+        ],
+        "answer": "Vehicle motion or behavior."
+      },
+      {
+        "question": "Would guiding an aircraft’s motion fit this research area?",
+        "choices": [
+          "Yes, guiding aircraft motion fits this work.",
+          "Only about naming airports.",
+          "No, it is only about painting aircraft.",
+          "Only about printing boarding passes."
+        ],
+        "answer": "Yes, guiding aircraft motion fits this work."
+      }
+    ],
+    "slug": "william-l-garrard",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/william-l-garrard"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [
+      "The profile provides a short research description; the quiz includes basic explanations of those stated topics."
+    ],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/william-l-garrard/photo.jpg"
+  },
+  {
+    "name": "Yohannes Ketema",
+    "role": "Professor & Director of Undergraduate Studies",
+    "email": "ketema@umn.edu",
+    "url": "https://cse.umn.edu/aem/yohannes-ketema",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Yohannes%20Ketema%20Headshot%20Website.png.webp?itok=NGSauIWE",
+    "category": "Faculty",
+    "research_summary": "Ketema studies motion and stability, including spacecraft orbits, unmanned-aircraft paths, and vibration control using active materials. He also models human walking to estimate step size for pedestrian navigation.",
+    "quiz": [
+      {
+        "question": "What broad subject unites Ketema’s research?",
+        "choices": [
+          "Cookbook editing.",
+          "Interior decorating.",
+          "Stamp collecting.",
+          "Dynamics, or the study of motion."
+        ],
+        "answer": "Dynamics, or the study of motion."
+      },
+      {
+        "question": "What space-related paths does he study?",
+        "choices": [
+          "Subway transfers downtown.",
+          "Library aisle routes.",
+          "Spacecraft orbits and transfers between them.",
+          "Hiking trails in a city park."
+        ],
+        "answer": "Spacecraft orbits and transfers between them."
+      },
+      {
+        "question": "What unwanted motion can active materials help reduce?",
+        "choices": [
+          "Footsteps in a hallway.",
+          "Vibration.",
+          "Daylight.",
+          "Email notifications."
+        ],
+        "answer": "Vibration."
+      },
+      {
+        "question": "What everyday human activity does he model?",
+        "choices": [
+          "Walking.",
+          "Sleeping.",
+          "Whistling.",
+          "Typing passwords."
+        ],
+        "answer": "Walking."
+      },
+      {
+        "question": "Why estimate step size?",
+        "choices": [
+          "To design shoe commercials.",
+          "To time cooking pasta.",
+          "To rank dance contests.",
+          "To help pedestrian navigation."
+        ],
+        "answer": "To help pedestrian navigation."
+      }
+    ],
+    "slug": "yohannes-ketema",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/yohannes-ketema"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/yohannes-ketema/photo.jpg"
+  },
+  {
+    "name": "Yue Yu",
+    "role": "Assistant Professor",
+    "email": "yuey@umn.edu",
+    "url": "https://cse.umn.edu/aem/yue-yu",
+    "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Yue%20Yu%20Headshot%20Website_0.png.webp?itok=wSA4JHk9",
+    "category": "Faculty",
+    "research_summary": "Yu develops efficient optimization and control algorithms for autonomous aerospace systems. His work includes planning paths in real time and coordinating multiple vehicles using game theory, with applications to advanced air mobility and spacecraft control.",
+    "quiz": [
+      {
+        "question": "What type of aerospace systems does Yu study?",
+        "choices": [
+          "Autonomous systems.",
+          "Remote-controlled toys only.",
+          "Parked museum aircraft only.",
+          "Hand-flown paper airplanes only."
+        ],
+        "answer": "Autonomous systems."
+      },
+      {
+        "question": "What do trajectory-planning algorithms choose?",
+        "choices": [
+          "A cafeteria table.",
+          "A vehicle’s path.",
+          "A lecture hall seat.",
+          "A poster color."
+        ],
+        "answer": "A vehicle’s path."
+      },
+      {
+        "question": "Does his work include real-time planning?",
+        "choices": [
+          "Only weekend schedules.",
+          "No, only plans made a year in advance.",
+          "Yes, including real-time path planning.",
+          "Only printed itineraries."
+        ],
+        "answer": "Yes, including real-time path planning."
+      },
+      {
+        "question": "What theory helps coordinate multiple vehicles?",
+        "choices": [
+          "Color theory.",
+          "Literary theory.",
+          "Music theory.",
+          "Game theory."
+        ],
+        "answer": "Game theory."
+      },
+      {
+        "question": "Name one application.",
+        "choices": [
+          "Advanced air mobility or spacecraft control.",
+          "Concert lighting cues.",
+          "Campus lawn mowing.",
+          "Bookstore inventory."
+        ],
+        "answer": "Advanced air mobility or spacecraft control."
+      }
+    ],
+    "slug": "yue-yu",
+    "sources": [
+      {
+        "label": "AEM faculty directory (name, role, email, photo)",
+        "url": "https://cse.umn.edu/aem/aem-faculty"
+      },
+      {
+        "label": "AEM individual profile",
+        "url": "https://cse.umn.edu/aem/yue-yu"
+      }
+    ],
+    "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+    "notes": [],
+    "photo_status": "directory_photo",
+    "retrieved_date": "2026-09-26",
+    "photo_file": "people/yue-yu/photo.jpg"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "name": "Graham V. Candler",
+  "role": "Associate Department Head, Professor and McKnight Presidential Endowed Chair",
+  "email": "candler@umn.edu",
+  "url": "https://cse.umn.edu/aem/graham-v-candler",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Candlerresized.jpeg.webp?itok=Tygrevk9",
+  "category": "Faculty",
+  "research_summary": "Candler uses computer simulations to study extremely fast, hot gas flows and the chemical reactions within them. His work helps analyze spacecraft heat shields, the onset of turbulence, and air inlets for hypersonic aircraft.",
+  "quiz": [
+    {
+      "question": "What main tool does Professor Candler use to study gas flows?",
+      "choices": [
+        "Wind tunnels",
+        "Laboratory experiments",
+        "Computer simulations",
+        "Field observations"
+      ],
+      "answer": "Computer simulations"
+    },
+    {
+      "question": "What best characterizes the gas flows Professor Candler studies?",
+      "choices": [
+        "Very fast and hot",
+        "Slow and cold",
+        "Moderate speed and room temperature",
+        "Static and high pressure"
+      ],
+      "answer": "Very fast and hot"
+    },
+    {
+      "question": "Candler's work helps analyze which critical spacecraft component?",
+      "choices": [
+        "Navigation systems",
+        "Propulsion systems",
+        "Communication arrays",
+        "Heat shields"
+      ],
+      "answer": "Heat shields"
+    },
+    {
+      "question": "Which statement is true regarding chemical reactions in Professor Candler's gas flow research?",
+      "choices": [
+        "His work specifically excludes chemical reactions.",
+        "Chemical reactions are included in his studies.",
+        "He studies chemical reactions in liquids only.",
+        "His research on chemical reactions is limited to solids."
+      ],
+      "answer": "Chemical reactions are included in his studies."
+    },
+    {
+      "question": "Candler's research on air inlets is relevant to what type of aircraft?",
+      "choices": [
+        "Subsonic passenger jets",
+        "Supersonic fighter jets",
+        "Hypersonic aircraft",
+        "Light general aviation planes"
+      ],
+      "answer": "Hypersonic aircraft"
+    }
+  ],
+  "slug": "graham-v-candler",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/graham-v-candler"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/graham-v-candler/photo.jpg"
+}

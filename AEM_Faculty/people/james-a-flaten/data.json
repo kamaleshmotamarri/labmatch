@@ -1,0 +1,79 @@
+{
+  "name": "James A. Flaten",
+  "role": "Associate Director of the MN Space Grant Consortium and Contract Professor",
+  "email": "flate001@umn.edu",
+  "url": "https://cse.umn.edu/aem/james-flaten",
+  "photo_url": "https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/Flatenresized.jpg.webp?itok=Q43CL6KS",
+  "category": "Teaching & Research Faculty",
+  "research_summary": "Flaten leads hands-on NASA-related education and projects involving high-altitude balloons, miniature spacecraft, rocket payloads, and student rocketry. His academic background is experimental low-temperature physics, and his outreach connects physics with sound, art, and engaging demonstrations.",
+  "quiz": [
+    {
+      "question": "What lifts some of Flaten’s miniature spacecraft into the stratosphere?",
+      "choices": [
+        "Commercial airliners.",
+        "Deep-sea buoys.",
+        "Subway tunnels.",
+        "Weather balloons."
+      ],
+      "answer": "Weather balloons."
+    },
+    {
+      "question": "Which space agency is connected to his educational projects?",
+      "choices": [
+        "The US Postal Service.",
+        "The Federal Reserve.",
+        "NASA.",
+        "NOAA only."
+      ],
+      "answer": "NASA."
+    },
+    {
+      "question": "What do students develop for suborbital rocket flights?",
+      "choices": [
+        "Parking permits.",
+        "Science payloads.",
+        "Campus dining menus.",
+        "Sports playbooks."
+      ],
+      "answer": "Science payloads."
+    },
+    {
+      "question": "What is his formal academic research background?",
+      "choices": [
+        "Experimental low-temperature physics.",
+        "Medieval literature.",
+        "Corporate tax law.",
+        "Marine biology only."
+      ],
+      "answer": "Experimental low-temperature physics."
+    },
+    {
+      "question": "Name one topic he connects with physics in outreach.",
+      "choices": [
+        "Stock-market timing.",
+        "Restaurant ratings.",
+        "Highway toll collection.",
+        "Sound, art, or engaging demonstrations."
+      ],
+      "answer": "Sound, art, or engaging demonstrations."
+    }
+  ],
+  "slug": "james-a-flaten",
+  "sources": [
+    {
+      "label": "AEM faculty directory (name, role, email, photo)",
+      "url": "https://cse.umn.edu/aem/aem-faculty"
+    },
+    {
+      "label": "AEM individual profile",
+      "url": "https://cse.umn.edu/aem/james-flaten"
+    }
+  ],
+  "research_basis": "AEM profile research description, paraphrased with brief plain-language explanations.",
+  "notes": [
+    "Summary and quiz include educational projects and outreach described in the profile’s Research section."
+  ],
+  "photo_status": "directory_photo",
+  "retrieved_date": "2026-09-26",
+  "photo_file": "people/james-a-flaten/photo.jpg"
+}
