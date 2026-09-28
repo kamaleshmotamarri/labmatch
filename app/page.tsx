@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import { AuthControls } from '@/components/auth-controls';
 import { BrandLockup } from '@/components/brand';
+import { LandingNav } from '@/components/landing-nav';
 import { departments, professors, topics } from '@/lib/data';
 
 const featured = professors[0];
@@ -40,16 +40,7 @@ const faqs = [
 export default function Home() {
   return (
     <div className="landing">
-      <header className="landing-nav">
-        <BrandLockup />
-        <nav aria-label="Main navigation">
-          <a href="#how-it-works">How it works</a>
-          <a href="#faculty">Faculty</a>
-          <a href="#faq">FAQ</a>
-          <Link href="/discover">Discover</Link>
-        </nav>
-        <AuthControls signedInExtra={<Link className="button small" href="/discover">Open app <span>↗</span></Link>} />
-      </header>
+      <LandingNav />
       <main>
         <section className="hero">
           <div className="hero-copy">
