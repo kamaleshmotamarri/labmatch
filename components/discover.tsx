@@ -175,7 +175,7 @@ export function Discover() {
   const [departmentId, setDepartmentId] = useState(() => resolveDepartment(resolveCollege(params.get('college')), params.get('department')));
   const [mode, setMode] = useState<'swipe' | 'grid'>('swipe');
   const [query, setQuery] = useState('');
-  const [topic, setTopic] = useState('');
+  const [topic, setTopic] = useState(() => topics.find((item) => item === params.get('topic')) || '');
   const [detail, setDetail] = useState<Professor | null>(null);
   const [status, setStatus] = useState('');
   const department = departments.find((item) => item.id === departmentId)!;
@@ -209,6 +209,7 @@ export function Discover() {
     const next = new URLSearchParams(params.toString());
     next.set('college', nextCollege);
     next.set('department', nextDepartment);
+    next.delete('topic');
     router.replace(`/discover?${next.toString()}`, { scroll: false });
   }
 
