@@ -25,19 +25,26 @@ export async function saveSwipe(decision: DiscoveryDecision) {
   return true;
 }
 
-export async function saveSwipes(decisions: DiscoveryDecision[]) {
-  const response = await fetch('/api/swipes', {
-    method: 'PUT',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ decisions }),
-  });
-  if (response.status === 401) return null;
-  return readJson<{ decisions: DiscoveryDecision[] }>(response);
-}
-
 export async function deleteSwipe(professorId?: string) {
   const response = await fetch(professorId ? `/api/swipes?professorId=${encodeURIComponent(professorId)}` : '/api/swipes', {
     method: 'DELETE',
+  });
+  if (response.status === 401) return false;
+  await readJson(response);
+  return true;
+}
+
+export async function fetchProfile() {
+  const response = await fetch('/api/profile');
+  if (response.status === 401) return null;
+  return readJson<{ profile: StudentProfile }>(response);
+}
+
+export async function saveProfile(profile: StudentProfile) {
+  const response = await fetch('/api/profile', {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ profile }),
   });
   if (response.status === 401) return false;
   await readJson(response);

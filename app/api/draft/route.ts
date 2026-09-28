@@ -1,22 +1,8 @@
 import { requireUser } from '@/lib/auth-server';
 import { getProfessor } from '@/lib/faculty-server';
 import { getSql } from '@/lib/db';
-import { emptyProfile, isProfileComplete, missingProfileFields, type StudentProfile } from '@/lib/data';
+import { isProfileComplete, missingProfileFields, parseProfile } from '@/lib/data';
 import { geminiConfigured, geminiGenerate, parseGeminiJson } from '@/lib/gemini';
-
-function profileFrom(value: unknown): StudentProfile {
-  if (!value || typeof value !== 'object') return emptyProfile;
-  const profile = value as StudentProfile;
-  return {
-    name: typeof profile.name === 'string' ? profile.name : '',
-    major: typeof profile.major === 'string' ? profile.major : '',
-    year: typeof profile.year === 'string' ? profile.year : '',
-    interests: Array.isArray(profile.interests) ? profile.interests.filter((item) => typeof item === 'string') : [],
-    coursework: typeof profile.coursework === 'string' ? profile.coursework : '',
-    skills: typeof profile.skills === 'string' ? profile.skills : '',
-    goals: typeof profile.goals === 'string' ? profile.goals : '',
-  };
-}
 
 export async function POST(request: Request) {
   const { userId, response } = await requireUser();
@@ -41,7 +27,7 @@ export async function POST(request: Request) {
     return Response.json({ error: 'Score 5/5 on the research quiz before drafting an email.' }, { status: 403 });
   }
 
-  const student = profileFrom(body.profile);
+  const student = parseProfile(body.profile);
   if (!isProfileComplete(student)) {
     const missing = missingProfileFields(student).join(', ');
     return Response.json({

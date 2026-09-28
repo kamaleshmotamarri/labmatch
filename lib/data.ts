@@ -24,6 +24,20 @@ export type ChatMessage = { role: 'user' | 'assistant'; text: string };
 export type EmailDraft = { professorId: string; subject: string; body: string };
 export const emptyProfile: StudentProfile = { name: '', major: '', year: '', interests: [], coursework: '', skills: '', goals: '' };
 
+export function parseProfile(value: unknown): StudentProfile {
+  if (!value || typeof value !== 'object') return emptyProfile;
+  const profile = value as Partial<StudentProfile>;
+  return {
+    name: typeof profile.name === 'string' ? profile.name : '',
+    major: typeof profile.major === 'string' ? profile.major : '',
+    year: typeof profile.year === 'string' ? profile.year : '',
+    interests: Array.isArray(profile.interests) ? profile.interests.filter((item) => typeof item === 'string') : [],
+    coursework: typeof profile.coursework === 'string' ? profile.coursework : '',
+    skills: typeof profile.skills === 'string' ? profile.skills : '',
+    goals: typeof profile.goals === 'string' ? profile.goals : '',
+  };
+}
+
 export function missingProfileFields(profile: StudentProfile) {
   const missing: string[] = [];
   if (!profile.name.trim()) missing.push('name');

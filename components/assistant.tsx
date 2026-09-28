@@ -70,7 +70,7 @@ export function Assistant() {
       const existing = current.drafts.find((item) => item.professorId === id) || { professorId: id, subject: '', body: '' };
       return { ...current, drafts: [...current.drafts.filter((item) => item.professorId !== id), { ...existing, ...patch }] };
     });
-    setMessage('Draft saved on this device.');
+    setMessage('Draft saved.');
   }
 
   async function send(text: string) {
