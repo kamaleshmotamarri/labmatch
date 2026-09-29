@@ -54,6 +54,17 @@ export function isProfileComplete(profile: StudentProfile) {
   return missingProfileFields(profile).length === 0;
 }
 
+/** True when every field is blank — used to avoid overwriting good local/remote data. */
+export function isProfileEmpty(profile: StudentProfile) {
+  return !profile.name.trim()
+    && !profile.major.trim()
+    && !profile.year.trim()
+    && profile.interests.length === 0
+    && !profile.coursework.trim()
+    && !profile.skills.trim()
+    && !profile.goals.trim();
+}
+
 export const colleges = [
   { id: 'CSE' as const, name: 'College of Science and Engineering', short: 'CSE' },
   { id: 'CBS' as const, name: 'College of Biological Sciences', short: 'CBS' },

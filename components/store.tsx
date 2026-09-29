@@ -2,7 +2,7 @@
 import { useAuth } from '@clerk/nextjs';
 import { createContext, useContext, useEffect, useRef, useSyncExternalStore, type ReactNode } from 'react';
 import { deleteSwipe, fetchProfile, fetchSwipes, saveProfile, saveSwipe } from '@/lib/client-api';
-import { emptyProfile, professors, type StudentProfile, type DiscoveryDecision, type ChatMessage, type EmailDraft } from '@/lib/data';
+import { emptyProfile, isProfileEmpty, professors, type StudentProfile, type DiscoveryDecision, type ChatMessage, type EmailDraft } from '@/lib/data';
 
 type State = { profile: StudentProfile; decisions: DiscoveryDecision[]; chat: ChatMessage[]; drafts: EmailDraft[] };
 const initial: State = { profile: emptyProfile, decisions: [], chat: [], drafts: [] };
@@ -109,9 +109,10 @@ export function StoreProvider({ children }: { children: ReactNode }) {
       try {
         const [remoteProfile, remoteSwipes] = await Promise.all([fetchProfile(), fetchSwipes()]);
         if (cancelled || snapshot.userId !== activeUserId) return;
+        const remote = remoteProfile?.profile;
         const next: State = {
           ...local.state,
-          profile: remoteProfile?.profile ?? local.state.profile,
+          profile: remote && !isProfileEmpty(remote) ? remote : local.state.profile,
           decisions: remoteSwipes?.decisions ?? local.state.decisions,
         };
         lastSavedProfileJson = JSON.stringify(next.profile);
@@ -136,6 +137,7 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     if (!value.ready || !value.userId || value.userId !== activeUserId) return;
     const serialized = JSON.stringify(value.state.profile);
     if (serialized === lastSavedProfileJson) return;
+    if (isProfileEmpty(value.state.profile)) return;
     if (profileTimer.current) window.clearTimeout(profileTimer.current);
     profileTimer.current = window.setTimeout(() => {
       lastSavedProfileJson = serialized;
@@ -159,10 +161,10 @@ export async function persistDecisionRemoval(professorId?: string) {
   try { await deleteSwipe(professorId); } catch { /* local copy still updated */ }
 }
 
-export async function persistProfile(profile?: StudentProfile) {
+export async function persistProfile(profile?: StudentProfile, options?: { reset?: boolean }) {
   const next = profile ?? snapshot.state.profile;
   lastSavedProfileJson = JSON.stringify(next);
-  try { await saveProfile(next); } catch { /* local copy still saved */ }
+  try { await saveProfile(next, options); } catch { /* local copy still saved */ }
 }
 
 export function useStore() {

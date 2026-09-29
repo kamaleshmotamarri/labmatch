@@ -40,8 +40,9 @@ export async function fetchProfile() {
   return readJson<{ profile: StudentProfile }>(response);
 }
 
-export async function saveProfile(profile: StudentProfile) {
-  const response = await fetch('/api/profile', {
+export async function saveProfile(profile: StudentProfile, options?: { reset?: boolean }) {
+  const path = options?.reset ? '/api/profile?reset=1' : '/api/profile';
+  const response = await fetch(path, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ profile }),
